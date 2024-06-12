@@ -1,0 +1,3320 @@
+
+---------------------------------------------------
+Run 2
+Brute Force: Best Path: (0, 1), 
+Cost: 0.22510364855530882, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.22510364855530882, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 0.22510364855530882, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1], 
+Cost: 0.22510364855530882, 
+Time: 0.02526116371154785 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 0.22510364855530882, 
+Time: 0.056299448013305664 seconds
+Genetic Algorithm: Best Path: [0, 1], 
+Cost: 0.22510364855530882, 
+Time: 0.28583836555480957 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 0.8787486351822262, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.8787486351822262, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 0.8787486351822262, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 0], 
+Cost: 0.8787486351822262, 
+Time: 0.020005226135253906 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 0.8787486351822262, 
+Time: 0.05779457092285156 seconds
+Genetic Algorithm: Best Path: [1, 0], 
+Cost: 0.8787486351822262, 
+Time: 0.30516958236694336 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 1.0330303743737688, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.0330303743737688, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 1.0330303743737688, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 0], 
+Cost: 1.0330303743737688, 
+Time: 0.01867842674255371 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 1.0330303743737688, 
+Time: 0.0570216178894043 seconds
+Genetic Algorithm: Best Path: [1, 0], 
+Cost: 1.0330303743737688, 
+Time: 0.2909722328186035 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 0.4034612529405534, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.4034612529405534, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 0.4034612529405534, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 0], 
+Cost: 0.4034612529405534, 
+Time: 0.016736984252929688 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 0.4034612529405534, 
+Time: 0.0523838996887207 seconds
+Genetic Algorithm: Best Path: [1, 0], 
+Cost: 0.4034612529405534, 
+Time: 0.2906005382537842 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 0.2940698778903048, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.2940698778903048, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 0.2940698778903048, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1], 
+Cost: 0.2940698778903048, 
+Time: 0.025748729705810547 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 0.2940698778903048, 
+Time: 0.05029296875 seconds
+Genetic Algorithm: Best Path: [0, 1], 
+Cost: 0.2940698778903048, 
+Time: 0.2788236141204834 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 0.5803764613926088, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.5803764613926088, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 0.5803764613926088, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1], 
+Cost: 0.5803764613926088, 
+Time: 0.017731428146362305 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 0.5803764613926088, 
+Time: 0.05145096778869629 seconds
+Genetic Algorithm: Best Path: [1, 0], 
+Cost: 0.5803764613926088, 
+Time: 0.2887425422668457 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 0.7719056261780387, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.7719056261780387, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 0.7719056261780387, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1], 
+Cost: 0.7719056261780387, 
+Time: 0.022838592529296875 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 0.7719056261780387, 
+Time: 0.05421042442321777 seconds
+Genetic Algorithm: Best Path: [1, 0], 
+Cost: 0.7719056261780387, 
+Time: 0.28566861152648926 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 1.4814667793516816, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.4814667793516816, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 1.4814667793516816, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1], 
+Cost: 1.4814667793516816, 
+Time: 0.029494524002075195 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 1.4814667793516816, 
+Time: 0.04935002326965332 seconds
+Genetic Algorithm: Best Path: [0, 1], 
+Cost: 1.4814667793516816, 
+Time: 0.2762165069580078 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 1.4371593996901109, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.4371593996901109, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 1.4371593996901109, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 0], 
+Cost: 1.4371593996901109, 
+Time: 0.02100515365600586 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 1.4371593996901109, 
+Time: 0.04969310760498047 seconds
+Genetic Algorithm: Best Path: [0, 1], 
+Cost: 1.4371593996901109, 
+Time: 0.2915055751800537 seconds
+Brute Force: Best Path: (0, 1), 
+Cost: 1.1191582314577442, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.1191582314577442, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 0], 
+Cost: 1.1191582314577442, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1], 
+Cost: 1.1191582314577442, 
+Time: 0.019504547119140625 seconds
+Ant Colony: Best Path: [0, 1, 0], 
+Cost: 1.1191582314577442, 
+Time: 0.051941633224487305 seconds
+Genetic Algorithm: Best Path: [1, 0], 
+Cost: 1.1191582314577442, 
+Time: 0.28830671310424805 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 3
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 1.5544387722108355, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.5544387722108355, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 1, 0], 
+Cost: 1.5544387722108355, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 2, 0], 
+Cost: 1.5544387722108355, 
+Time: 0.01804828643798828 seconds
+Ant Colony: Best Path: [0, 2, 1, 0], 
+Cost: 1.5544387722108355, 
+Time: 0.08776187896728516 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 1.5544387722108355, 
+Time: 0.31865930557250977 seconds
+Brute Force: Best Path: (0, 2, 1), 
+Cost: 1.7293326466293972, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.7293326466293972, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 0], 
+Cost: 1.7293326466293975, 
+Time: 0.0010504722595214844 seconds
+Simulated Annealing: Best Path: [0, 2, 1], 
+Cost: 1.7293326466293972, 
+Time: 0.018672466278076172 seconds
+Ant Colony: Best Path: [0, 2, 1, 0], 
+Cost: 1.7293326466293972, 
+Time: 0.09699845314025879 seconds
+Genetic Algorithm: Best Path: [0, 2, 1], 
+Cost: 1.7293326466293972, 
+Time: 0.3189125061035156 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 1.547098196007508, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.547098196007508, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 1, 0], 
+Cost: 1.547098196007508, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 1, 0], 
+Cost: 1.547098196007508, 
+Time: 0.019207000732421875 seconds
+Ant Colony: Best Path: [0, 1, 2, 0], 
+Cost: 1.547098196007508, 
+Time: 0.09405755996704102 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 1.547098196007508, 
+Time: 0.3076801300048828 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 1.4243197802166394, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.4243197802166394, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 0], 
+Cost: 1.4243197802166394, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 1, 0], 
+Cost: 1.4243197802166394, 
+Time: 0.02004718780517578 seconds
+Ant Colony: Best Path: [0, 1, 2, 0], 
+Cost: 1.4243197802166394, 
+Time: 0.09382128715515137 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 1.4243197802166394, 
+Time: 0.30004048347473145 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 1.8011835265065248, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.8011835265065248, 
+Time: 0.010010242462158203 seconds
+Nearest Neighbor: Best Path: [0, 2, 1, 0], 
+Cost: 1.801183526506525, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 1, 0], 
+Cost: 1.8011835265065248, 
+Time: 0.018127918243408203 seconds
+Ant Colony: Best Path: [0, 2, 1, 0], 
+Cost: 1.801183526506525, 
+Time: 0.09319901466369629 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 1.8011835265065248, 
+Time: 0.31999802589416504 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 0.8146154034731963, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.8146154034731963, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 0], 
+Cost: 0.8146154034731963, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1, 2], 
+Cost: 0.8146154034731963, 
+Time: 0.021123647689819336 seconds
+Ant Colony: Best Path: [0, 2, 1, 0], 
+Cost: 0.8146154034731963, 
+Time: 0.10172772407531738 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 0.8146154034731963, 
+Time: 0.3171384334564209 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 1.867787941126795, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.867787941126795, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 1, 0], 
+Cost: 1.867787941126795, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 2, 1], 
+Cost: 1.867787941126795, 
+Time: 0.02025008201599121 seconds
+Ant Colony: Best Path: [0, 2, 1, 0], 
+Cost: 1.867787941126795, 
+Time: 0.09311199188232422 seconds
+Genetic Algorithm: Best Path: [1, 2, 0], 
+Cost: 1.867787941126795, 
+Time: 0.31339383125305176 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 2.2096126315409697, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.2096126315409697, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 1, 0], 
+Cost: 2.2096126315409697, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1, 2], 
+Cost: 2.2096126315409697, 
+Time: 0.020886659622192383 seconds
+Ant Colony: Best Path: [0, 2, 1, 0], 
+Cost: 2.2096126315409697, 
+Time: 0.09545493125915527 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 2.2096126315409697, 
+Time: 0.3014814853668213 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 0.8655526303197504, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.8655526303197504, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 0], 
+Cost: 0.8655526303197504, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 2, 0], 
+Cost: 0.8655526303197504, 
+Time: 0.018233299255371094 seconds
+Ant Colony: Best Path: [0, 1, 2, 0], 
+Cost: 0.8655526303197504, 
+Time: 0.09564638137817383 seconds
+Genetic Algorithm: Best Path: [1, 0, 2], 
+Cost: 0.8655526303197504, 
+Time: 0.3082418441772461 seconds
+Brute Force: Best Path: (0, 1, 2), 
+Cost: 2.036414477470153, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.036414477470153, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 0], 
+Cost: 2.036414477470153, 
+Time: 0.008509397506713867 seconds
+Simulated Annealing: Best Path: [1, 0, 2], 
+Cost: 2.036414477470153, 
+Time: 0.018959522247314453 seconds
+Ant Colony: Best Path: [0, 1, 2, 0], 
+Cost: 2.036414477470153, 
+Time: 0.09693431854248047 seconds
+Genetic Algorithm: Best Path: [2, 1, 0], 
+Cost: 2.036414477470153, 
+Time: 0.3170647621154785 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 4
+Brute Force: Best Path: (0, 1, 2, 3), 
+Cost: 2.0356867132185474, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.0356867132185474, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 3, 2, 0], 
+Cost: 2.2089618421978123, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 1, 0, 3], 
+Cost: 2.0356867132185474, 
+Time: 0.02021336555480957 seconds
+Ant Colony: Best Path: [0, 1, 2, 3, 0], 
+Cost: 2.0356867132185474, 
+Time: 0.140852689743042 seconds
+Genetic Algorithm: Best Path: [3, 2, 1, 0], 
+Cost: 2.0356867132185474, 
+Time: 0.35193395614624023 seconds
+Brute Force: Best Path: (0, 1, 3, 2), 
+Cost: 1.685061309243292, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.685061309243292, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 3, 0], 
+Cost: 1.743752430573226, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1, 3, 2], 
+Cost: 1.685061309243292, 
+Time: 0.01871037483215332 seconds
+Ant Colony: Best Path: [0, 2, 3, 1, 0], 
+Cost: 1.685061309243292, 
+Time: 0.1351921558380127 seconds
+Genetic Algorithm: Best Path: [1, 3, 2, 0], 
+Cost: 1.685061309243292, 
+Time: 0.397247314453125 seconds
+Brute Force: Best Path: (1, 3, 0, 2), 
+Cost: 1.9958093390672382, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.9958093390672385, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 1, 2, 0], 
+Cost: 1.9958093390672387, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 1, 3, 0], 
+Cost: 1.9958093390672382, 
+Time: 0.02062392234802246 seconds
+Ant Colony: Best Path: [0, 3, 1, 2, 0], 
+Cost: 1.9958093390672387, 
+Time: 0.1315326690673828 seconds
+Genetic Algorithm: Best Path: [2, 1, 3, 0], 
+Cost: 1.9958093390672382, 
+Time: 0.3539917469024658 seconds
+Brute Force: Best Path: (0, 2, 1, 3), 
+Cost: 2.1425075220702587, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.1425075220702587, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 1, 2, 0], 
+Cost: 2.1425075220702587, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 1, 2, 0], 
+Cost: 2.1425075220702587, 
+Time: 0.01924729347229004 seconds
+Ant Colony: Best Path: [0, 3, 1, 2, 0], 
+Cost: 2.1425075220702587, 
+Time: 0.13077068328857422 seconds
+Genetic Algorithm: Best Path: [2, 0, 3, 1], 
+Cost: 2.1425075220702587, 
+Time: 0.3541381359100342 seconds
+Brute Force: Best Path: (1, 0, 2, 3), 
+Cost: 0.6859625988995843, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 0.6859625988995844, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 1, 3, 0], 
+Cost: 0.7333898242132857, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 0, 2, 3], 
+Cost: 0.6859625988995843, 
+Time: 0.023825883865356445 seconds
+Ant Colony: Best Path: [0, 2, 3, 1, 0], 
+Cost: 0.6859625988995844, 
+Time: 0.13607144355773926 seconds
+Genetic Algorithm: Best Path: [1, 0, 2, 3], 
+Cost: 0.6859625988995843, 
+Time: 0.34288811683654785 seconds
+Brute Force: Best Path: (0, 2, 3, 1), 
+Cost: 1.3040124694810102, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.3040124694810102, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 3, 1, 0], 
+Cost: 1.3040124694810102, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 0, 1, 3], 
+Cost: 1.3040124694810102, 
+Time: 0.020488739013671875 seconds
+Ant Colony: Best Path: [0, 2, 3, 1, 0], 
+Cost: 1.3040124694810102, 
+Time: 0.1369929313659668 seconds
+Genetic Algorithm: Best Path: [3, 1, 0, 2], 
+Cost: 1.3040124694810102, 
+Time: 0.34199953079223633 seconds
+Brute Force: Best Path: (0, 1, 2, 3), 
+Cost: 2.745300645101267, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.745300645101267, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 2, 1, 0], 
+Cost: 2.745300645101267, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 2, 1, 0], 
+Cost: 2.745300645101267, 
+Time: 0.01950216293334961 seconds
+Ant Colony: Best Path: [0, 3, 2, 1, 0], 
+Cost: 2.745300645101267, 
+Time: 0.13567352294921875 seconds
+Genetic Algorithm: Best Path: [0, 3, 2, 1], 
+Cost: 2.745300645101267, 
+Time: 0.3475041389465332 seconds
+Brute Force: Best Path: (1, 3, 0, 2), 
+Cost: 1.804676818299979, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.8046768182999793, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 1, 2, 0], 
+Cost: 1.8046768182999793, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 0, 3, 1], 
+Cost: 1.804676818299979, 
+Time: 0.018714189529418945 seconds
+Ant Colony: Best Path: [0, 3, 1, 2, 0], 
+Cost: 1.8046768182999793, 
+Time: 0.13812851905822754 seconds
+Genetic Algorithm: Best Path: [2, 0, 3, 1], 
+Cost: 1.804676818299979, 
+Time: 0.3607642650604248 seconds
+Brute Force: Best Path: (0, 3, 1, 2), 
+Cost: 2.4347691773845668, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.4347691773845668, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 2, 1, 0], 
+Cost: 2.521259657003892, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 3, 1, 2], 
+Cost: 2.4347691773845668, 
+Time: 0.018285512924194336 seconds
+Ant Colony: Best Path: [0, 3, 1, 2, 0], 
+Cost: 2.4347691773845668, 
+Time: 0.13758563995361328 seconds
+Genetic Algorithm: Best Path: [1, 2, 0, 3], 
+Cost: 2.4347691773845668, 
+Time: 0.35200929641723633 seconds
+Brute Force: Best Path: (0, 1, 3, 2), 
+Cost: 1.7212219246030953, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.7212219246030953, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 3, 2, 0], 
+Cost: 1.7212219246030953, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 2, 0, 1], 
+Cost: 1.7212219246030953, 
+Time: 0.021183013916015625 seconds
+Ant Colony: Best Path: [0, 1, 3, 2, 0], 
+Cost: 1.7212219246030953, 
+Time: 0.13908720016479492 seconds
+Genetic Algorithm: Best Path: [0, 2, 3, 1], 
+Cost: 1.7212219246030953, 
+Time: 0.341400146484375 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 5
+Brute Force: Best Path: (1, 3, 4, 2, 0), 
+Cost: 2.4238105478103904, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.423810547810391, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 4, 3, 1, 0], 
+Cost: 2.423810547810391, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 3, 4, 2, 0], 
+Cost: 2.4238105478103904, 
+Time: 0.022136449813842773 seconds
+Ant Colony: Best Path: [0, 2, 4, 3, 1, 0], 
+Cost: 2.423810547810391, 
+Time: 0.17607736587524414 seconds
+Genetic Algorithm: Best Path: [1, 3, 4, 2, 0], 
+Cost: 2.4238105478103904, 
+Time: 0.3811674118041992 seconds
+Brute Force: Best Path: (0, 1, 2, 4, 3), 
+Cost: 2.2774393718352566, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.2774393718352566, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 4, 3, 0], 
+Cost: 2.2774393718352566, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 4, 3, 0, 1], 
+Cost: 2.2774393718352566, 
+Time: 0.020567893981933594 seconds
+Ant Colony: Best Path: [0, 1, 2, 4, 3, 0], 
+Cost: 2.2774393718352566, 
+Time: 0.17962312698364258 seconds
+Genetic Algorithm: Best Path: [4, 2, 1, 0, 3], 
+Cost: 2.2774393718352566, 
+Time: 0.36037158966064453 seconds
+Brute Force: Best Path: (0, 2, 3, 1, 4), 
+Cost: 1.54574829058551, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.54574829058551, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 3, 1, 4, 0], 
+Cost: 1.54574829058551, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 0, 2, 3, 1], 
+Cost: 1.54574829058551, 
+Time: 0.019272565841674805 seconds
+Ant Colony: Best Path: [0, 2, 3, 1, 4, 0], 
+Cost: 1.54574829058551, 
+Time: 0.17870783805847168 seconds
+Genetic Algorithm: Best Path: [1, 3, 2, 0, 4], 
+Cost: 1.54574829058551, 
+Time: 0.3822493553161621 seconds
+Brute Force: Best Path: (0, 2, 3, 1, 4), 
+Cost: 1.7401052818126639, 
+Time: 0.008007526397705078 seconds
+Dynamic Programming: 
+Cost: 1.7401052818126639, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 2, 1, 4, 0], 
+Cost: 1.7413142291976562, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 2, 0, 4, 1], 
+Cost: 1.7401052818126639, 
+Time: 0.02463078498840332 seconds
+Ant Colony: Best Path: [0, 2, 3, 1, 4, 0], 
+Cost: 1.7401052818126639, 
+Time: 0.17941927909851074 seconds
+Genetic Algorithm: Best Path: [4, 0, 2, 3, 1], 
+Cost: 1.7401052818126639, 
+Time: 0.372114896774292 seconds
+Brute Force: Best Path: (0, 2, 3, 1, 4), 
+Cost: 2.37205358247171, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.37205358247171, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 1, 3, 2, 0], 
+Cost: 2.37205358247171, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 0, 2, 3, 1], 
+Cost: 2.37205358247171, 
+Time: 0.021487712860107422 seconds
+Ant Colony: Best Path: [0, 4, 1, 3, 2, 0], 
+Cost: 2.37205358247171, 
+Time: 0.1831824779510498 seconds
+Genetic Algorithm: Best Path: [0, 4, 1, 3, 2], 
+Cost: 2.37205358247171, 
+Time: 0.3721201419830322 seconds
+Brute Force: Best Path: (1, 4, 2, 0, 3), 
+Cost: 2.137233660208796, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.1372336602087962, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 2, 4, 3, 1, 0], 
+Cost: 2.182040211035736, 
+Time: 0.009957075119018555 seconds
+Simulated Annealing: Best Path: [1, 4, 2, 0, 3], 
+Cost: 2.137233660208796, 
+Time: 0.02111506462097168 seconds
+Ant Colony: Best Path: [0, 2, 4, 1, 3, 0], 
+Cost: 2.1372336602087962, 
+Time: 0.17127299308776855 seconds
+Genetic Algorithm: Best Path: [1, 4, 2, 0, 3], 
+Cost: 2.137233660208796, 
+Time: 0.38698458671569824 seconds
+Brute Force: Best Path: (0, 2, 1, 3, 4), 
+Cost: 2.4700733080468193, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.4700733080468193, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 1, 2, 3, 0], 
+Cost: 2.706905331698139, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 2, 1, 3, 4], 
+Cost: 2.4700733080468193, 
+Time: 0.025401830673217773 seconds
+Ant Colony: Best Path: [0, 4, 3, 1, 2, 0], 
+Cost: 2.4700733080468193, 
+Time: 0.17439842224121094 seconds
+Genetic Algorithm: Best Path: [2, 1, 3, 4, 0], 
+Cost: 2.4700733080468193, 
+Time: 0.38043880462646484 seconds
+Brute Force: Best Path: (0, 1, 2, 3, 4), 
+Cost: 2.602994373632243, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.602994373632243, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 3, 1, 2, 0], 
+Cost: 2.6378439433760392, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 3, 2, 1, 0], 
+Cost: 2.602994373632243, 
+Time: 0.018350839614868164 seconds
+Ant Colony: Best Path: [0, 4, 3, 2, 1, 0], 
+Cost: 2.602994373632243, 
+Time: 0.17772555351257324 seconds
+Genetic Algorithm: Best Path: [4, 3, 2, 1, 0], 
+Cost: 2.602994373632243, 
+Time: 0.3737061023712158 seconds
+Brute Force: Best Path: (2, 4, 1, 0, 3), 
+Cost: 2.64547495809987, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.6454749580998707, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 2, 4, 1, 0], 
+Cost: 2.6454749580998707, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 0, 1, 4, 2], 
+Cost: 2.64547495809987, 
+Time: 0.0232086181640625 seconds
+Ant Colony: Best Path: [0, 3, 2, 4, 1, 0], 
+Cost: 2.6454749580998707, 
+Time: 0.17759084701538086 seconds
+Genetic Algorithm: Best Path: [4, 2, 3, 0, 1], 
+Cost: 2.64547495809987, 
+Time: 0.3784291744232178 seconds
+Brute Force: Best Path: (0, 2, 3, 1, 4), 
+Cost: 2.4262638859761547, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.4262638859761547, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 1, 3, 2, 0], 
+Cost: 2.426263885976155, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 3, 2, 0, 4], 
+Cost: 2.4262638859761547, 
+Time: 0.022216320037841797 seconds
+Ant Colony: Best Path: [0, 4, 1, 3, 2, 0], 
+Cost: 2.426263885976155, 
+Time: 0.1769731044769287 seconds
+Genetic Algorithm: Best Path: [1, 3, 2, 0, 4], 
+Cost: 2.4262638859761547, 
+Time: 0.3686647415161133 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 6
+Brute Force: Best Path: (2, 3, 4, 5, 1, 0), 
+Cost: 2.3025445689296156, 
+Time: 0.0017077922821044922 seconds
+Dynamic Programming: 
+Cost: 2.302544568929616, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 5, 1, 4, 3, 2, 0], 
+Cost: 2.347284754762033, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 3, 2, 0, 1, 5], 
+Cost: 2.3025445689296156, 
+Time: 0.025693893432617188 seconds
+Ant Colony: Best Path: [0, 5, 1, 4, 3, 2, 0], 
+Cost: 2.347284754762033, 
+Time: 0.22494792938232422 seconds
+Genetic Algorithm: Best Path: [4, 3, 2, 0, 1, 5], 
+Cost: 2.3025445689296156, 
+Time: 0.41238951683044434 seconds
+Brute Force: Best Path: (0, 2, 5, 3, 1, 4), 
+Cost: 2.676766822407033, 
+Time: 0.0023059844970703125 seconds
+Dynamic Programming: 
+Cost: 2.676766822407033, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 1, 5, 3, 2, 0], 
+Cost: 3.0479292576089874, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 2, 5, 3, 1, 4], 
+Cost: 2.676766822407033, 
+Time: 0.021144628524780273 seconds
+Ant Colony: Best Path: [0, 4, 1, 3, 5, 2, 0], 
+Cost: 2.676766822407033, 
+Time: 0.22810792922973633 seconds
+Genetic Algorithm: Best Path: [0, 4, 1, 3, 5, 2], 
+Cost: 2.676766822407033, 
+Time: 0.391742467880249 seconds
+Brute Force: Best Path: (0, 1, 4, 5, 2, 3), 
+Cost: 2.301069604710477, 
+Time: 0.0013990402221679688 seconds
+Dynamic Programming: 
+Cost: 2.301069604710477, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 1, 2, 5, 3, 0], 
+Cost: 2.5498071739057884, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 5, 2, 3, 0, 1], 
+Cost: 2.301069604710477, 
+Time: 0.024695634841918945 seconds
+Ant Colony: Best Path: [0, 1, 4, 5, 2, 3, 0], 
+Cost: 2.301069604710477, 
+Time: 0.2289888858795166 seconds
+Genetic Algorithm: Best Path: [4, 1, 0, 3, 2, 5], 
+Cost: 2.301069604710477, 
+Time: 0.4108707904815674 seconds
+Brute Force: Best Path: (0, 2, 4, 1, 5, 3), 
+Cost: 2.282917893143827, 
+Time: 0.005784749984741211 seconds
+Dynamic Programming: 
+Cost: 2.282917893143827, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 2, 3, 5, 1, 0], 
+Cost: 2.3512694840409543, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 0, 2, 4, 1, 5], 
+Cost: 2.282917893143827, 
+Time: 0.020563125610351562 seconds
+Ant Colony: Best Path: [0, 2, 4, 1, 5, 3, 0], 
+Cost: 2.282917893143827, 
+Time: 0.21840500831604004 seconds
+Genetic Algorithm: Best Path: [1, 4, 2, 0, 3, 5], 
+Cost: 2.282917893143827, 
+Time: 0.41805171966552734 seconds
+Brute Force: Best Path: (0, 2, 1, 3, 5, 4), 
+Cost: 2.5508721891639303, 
+Time: 0.001752614974975586 seconds
+Dynamic Programming: 
+Cost: 2.5508721891639303, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 5, 3, 2, 1, 0], 
+Cost: 2.64122370320091, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 1, 2, 0, 4, 5], 
+Cost: 2.5508721891639303, 
+Time: 0.027605533599853516 seconds
+Ant Colony: Best Path: [0, 4, 5, 3, 1, 2, 0], 
+Cost: 2.5508721891639308, 
+Time: 0.22639703750610352 seconds
+Genetic Algorithm: Best Path: [3, 5, 4, 0, 2, 1], 
+Cost: 2.5508721891639303, 
+Time: 0.395763635635376 seconds
+Brute Force: Best Path: (0, 5, 2, 1, 4, 3), 
+Cost: 1.724224989371633, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 1.724224989371633, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 5, 4, 2, 1, 0], 
+Cost: 1.8729333833897384, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 5, 0, 3, 4, 1], 
+Cost: 1.724224989371633, 
+Time: 0.02756667137145996 seconds
+Ant Colony: Best Path: [0, 3, 5, 2, 1, 4, 0], 
+Cost: 1.7747712529867707, 
+Time: 0.22195100784301758 seconds
+Genetic Algorithm: Best Path: [1, 4, 3, 0, 5, 2], 
+Cost: 1.724224989371633, 
+Time: 0.41368937492370605 seconds
+Brute Force: Best Path: (0, 1, 4, 2, 5, 3), 
+Cost: 2.3001395197813777, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.3001395197813777, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 4, 2, 3, 5, 0], 
+Cost: 2.643258107428813, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 3, 0, 1, 4, 2], 
+Cost: 2.3001395197813777, 
+Time: 0.018423795700073242 seconds
+Ant Colony: Best Path: [0, 1, 4, 2, 5, 3, 0], 
+Cost: 2.3001395197813777, 
+Time: 0.22781848907470703 seconds
+Genetic Algorithm: Best Path: [5, 3, 0, 1, 4, 2], 
+Cost: 2.3001395197813777, 
+Time: 0.4505343437194824 seconds
+Brute Force: Best Path: (0, 3, 4, 1, 5, 2), 
+Cost: 2.534186645705429, 
+Time: 0.0 seconds
+Dynamic Programming: 
+Cost: 2.534186645705429, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 4, 5, 1, 2, 0], 
+Cost: 2.685407087614776, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 3, 4, 1, 5, 2], 
+Cost: 2.534186645705429, 
+Time: 0.023786067962646484 seconds
+Ant Colony: Best Path: [0, 3, 4, 5, 1, 2, 0], 
+Cost: 2.685407087614776, 
+Time: 0.23482823371887207 seconds
+Genetic Algorithm: Best Path: [0, 3, 4, 1, 5, 2], 
+Cost: 2.534186645705429, 
+Time: 0.4004638195037842 seconds
+Brute Force: Best Path: (1, 0, 4, 2, 5, 3), 
+Cost: 2.8252662630486602, 
+Time: 0.0034637451171875 seconds
+Dynamic Programming: 
+Cost: 2.8252662630486607, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 4, 2, 1, 3, 5, 0], 
+Cost: 2.979995363963752, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 0, 4, 2, 5, 3], 
+Cost: 2.8252662630486602, 
+Time: 0.019541263580322266 seconds
+Ant Colony: Best Path: [0, 2, 1, 3, 5, 4, 0], 
+Cost: 2.8871505720308717, 
+Time: 0.2367866039276123 seconds
+Genetic Algorithm: Best Path: [1, 0, 4, 2, 5, 3], 
+Cost: 2.8252662630486602, 
+Time: 0.39798498153686523 seconds
+Brute Force: Best Path: (1, 4, 2, 5, 0, 3), 
+Cost: 1.4272678824959837, 
+Time: 0.002473115921020508 seconds
+Dynamic Programming: 
+Cost: 1.427267882495984, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 4, 1, 2, 5, 0], 
+Cost: 1.4648133255729268, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 5, 0, 3, 1, 4], 
+Cost: 1.4272678824959837, 
+Time: 0.026423215866088867 seconds
+Ant Colony: Best Path: [0, 3, 1, 4, 2, 5, 0], 
+Cost: 1.427267882495984, 
+Time: 0.22420120239257812 seconds
+Genetic Algorithm: Best Path: [2, 5, 0, 3, 1, 4], 
+Cost: 1.4272678824959837, 
+Time: 0.4109928607940674 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 7
+Brute Force: Best Path: (6, 1, 5, 4, 0, 3, 2), 
+Cost: 1.934555277915242, 
+Time: 0.01381993293762207 seconds
+Dynamic Programming: 
+Cost: 1.9345552779152424, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 4, 5, 1, 6, 2, 0], 
+Cost: 1.972145180099713, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 1, 5, 4, 0, 3, 2], 
+Cost: 1.934555277915242, 
+Time: 0.024605989456176758 seconds
+Ant Colony: Best Path: [0, 4, 5, 1, 6, 2, 3, 0], 
+Cost: 1.9345552779152424, 
+Time: 0.2711362838745117 seconds
+Genetic Algorithm: Best Path: [6, 1, 5, 4, 0, 3, 2], 
+Cost: 1.934555277915242, 
+Time: 0.4458777904510498 seconds
+Brute Force: Best Path: (0, 1, 5, 2, 4, 6, 3), 
+Cost: 2.66391274402013, 
+Time: 0.02026820182800293 seconds
+Dynamic Programming: 
+Cost: 2.66391274402013, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 5, 2, 4, 6, 3, 0], 
+Cost: 2.66391274402013, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 3, 6, 4, 2, 5, 1], 
+Cost: 2.66391274402013, 
+Time: 0.02287578582763672 seconds
+Ant Colony: Best Path: [0, 1, 5, 2, 4, 6, 3, 0], 
+Cost: 2.66391274402013, 
+Time: 0.27011537551879883 seconds
+Genetic Algorithm: Best Path: [2, 4, 6, 3, 0, 1, 5], 
+Cost: 2.66391274402013, 
+Time: 0.41858386993408203 seconds
+Brute Force: Best Path: (0, 5, 6, 3, 4, 2, 1), 
+Cost: 3.3078389651333944, 
+Time: 0.010083436965942383 seconds
+Dynamic Programming: 
+Cost: 3.3078389651333944, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 2, 3, 6, 5, 4, 0], 
+Cost: 3.6760313247908254, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 4, 3, 6, 5, 0, 1], 
+Cost: 3.3078389651333944, 
+Time: 0.028111696243286133 seconds
+Ant Colony: Best Path: [0, 1, 2, 4, 3, 6, 5, 0], 
+Cost: 3.307838965133395, 
+Time: 0.2741415500640869 seconds
+Genetic Algorithm: Best Path: [3, 4, 2, 1, 0, 5, 6], 
+Cost: 3.3078389651333944, 
+Time: 0.42469120025634766 seconds
+Brute Force: Best Path: (0, 4, 6, 1, 2, 3, 5), 
+Cost: 2.2879460592755683, 
+Time: 0.015526056289672852 seconds
+Dynamic Programming: 
+Cost: 2.2879460592755683, 
+Time: 0.0007905960083007812 seconds
+Nearest Neighbor: Best Path: [0, 4, 3, 2, 1, 6, 5, 0], 
+Cost: 2.580158597500665, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 6, 4, 0, 5, 3, 2], 
+Cost: 2.2879460592755683, 
+Time: 0.022462129592895508 seconds
+Ant Colony: Best Path: [0, 4, 6, 1, 2, 3, 5, 0], 
+Cost: 2.2879460592755683, 
+Time: 0.27602291107177734 seconds
+Genetic Algorithm: Best Path: [6, 1, 2, 3, 5, 0, 4], 
+Cost: 2.2879460592755683, 
+Time: 0.43370985984802246 seconds
+Brute Force: Best Path: (0, 6, 3, 4, 2, 5, 1), 
+Cost: 2.6519133892823845, 
+Time: 0.014646053314208984 seconds
+Dynamic Programming: 
+Cost: 2.6519133892823845, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 4, 2, 5, 1, 6, 0], 
+Cost: 3.0253291858182267, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 3, 4, 2, 5, 1, 0], 
+Cost: 2.6519133892823845, 
+Time: 0.02313518524169922 seconds
+Ant Colony: Best Path: [0, 6, 3, 4, 2, 5, 1, 0], 
+Cost: 2.6519133892823845, 
+Time: 0.26250195503234863 seconds
+Genetic Algorithm: Best Path: [6, 3, 4, 2, 5, 1, 0], 
+Cost: 2.6519133892823845, 
+Time: 0.4467885494232178 seconds
+Brute Force: Best Path: (2, 1, 3, 0, 5, 6, 4), 
+Cost: 2.1076176143359344, 
+Time: 0.01717972755432129 seconds
+Dynamic Programming: 
+Cost: 2.107617614335935, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 1, 4, 2, 6, 5, 0], 
+Cost: 2.1303482822236806, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 5, 0, 3, 1, 2, 4], 
+Cost: 2.1076176143359344, 
+Time: 0.015621185302734375 seconds
+Ant Colony: Best Path: [0, 3, 1, 2, 4, 6, 5, 0], 
+Cost: 2.107617614335935, 
+Time: 0.27086973190307617 seconds
+Genetic Algorithm: Best Path: [2, 1, 3, 0, 5, 6, 4], 
+Cost: 2.1076176143359344, 
+Time: 0.4514639377593994 seconds
+Brute Force: Best Path: (4, 0, 5, 6, 2, 3, 1), 
+Cost: 2.586116060587377, 
+Time: 0.0185244083404541 seconds
+Dynamic Programming: 
+Cost: 2.5861160605873774, 
+Time: 0.0005488395690917969 seconds
+Nearest Neighbor: Best Path: [0, 4, 1, 3, 2, 6, 5, 0], 
+Cost: 2.5861160605873774, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 0, 5, 6, 2, 3, 1], 
+Cost: 2.586116060587377, 
+Time: 0.026401281356811523 seconds
+Ant Colony: Best Path: [0, 4, 1, 3, 2, 6, 5, 0], 
+Cost: 2.5861160605873774, 
+Time: 0.33046460151672363 seconds
+Genetic Algorithm: Best Path: [4, 0, 5, 6, 2, 3, 1], 
+Cost: 2.586116060587377, 
+Time: 0.43792223930358887 seconds
+Brute Force: Best Path: (0, 1, 4, 6, 2, 5, 3), 
+Cost: 2.48268583362617, 
+Time: 0.010041236877441406 seconds
+Dynamic Programming: 
+Cost: 2.48268583362617, 
+Time: 0.0005548000335693359 seconds
+Nearest Neighbor: Best Path: [0, 1, 4, 6, 2, 5, 3, 0], 
+Cost: 2.48268583362617, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 2, 6, 4, 1, 0, 3], 
+Cost: 2.48268583362617, 
+Time: 0.013617753982543945 seconds
+Ant Colony: Best Path: [0, 1, 4, 6, 2, 5, 3, 0], 
+Cost: 2.48268583362617, 
+Time: 0.28622889518737793 seconds
+Genetic Algorithm: Best Path: [5, 2, 6, 4, 1, 0, 3], 
+Cost: 2.48268583362617, 
+Time: 0.4377782344818115 seconds
+Brute Force: Best Path: (0, 4, 2, 3, 6, 1, 5), 
+Cost: 2.9110272654471476, 
+Time: 0.016788005828857422 seconds
+Dynamic Programming: 
+Cost: 2.9110272654471476, 
+Time: 0.0003294944763183594 seconds
+Nearest Neighbor: Best Path: [0, 4, 2, 3, 1, 6, 5, 0], 
+Cost: 2.9252757853181595, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 2, 3, 6, 1, 5, 0], 
+Cost: 2.9110272654471476, 
+Time: 0.022223949432373047 seconds
+Ant Colony: Best Path: [0, 4, 2, 3, 6, 1, 5, 0], 
+Cost: 2.9110272654471476, 
+Time: 0.27231431007385254 seconds
+Genetic Algorithm: Best Path: [4, 2, 3, 6, 1, 5, 0], 
+Cost: 2.9110272654471476, 
+Time: 0.42885708808898926 seconds
+Brute Force: Best Path: (1, 5, 0, 6, 3, 4, 2), 
+Cost: 1.9796642671271827, 
+Time: 0.010371685028076172 seconds
+Dynamic Programming: 
+Cost: 1.979664267127183, 
+Time: 0.006495952606201172 seconds
+Nearest Neighbor: Best Path: [0, 5, 1, 2, 3, 4, 6, 0], 
+Cost: 2.0414419174966367, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 5, 0, 6, 3, 4, 2], 
+Cost: 1.9796642671271827, 
+Time: 0.019927978515625 seconds
+Ant Colony: Best Path: [0, 5, 1, 2, 4, 3, 6, 0], 
+Cost: 1.979664267127183, 
+Time: 0.28378772735595703 seconds
+Genetic Algorithm: Best Path: [1, 5, 0, 6, 3, 4, 2], 
+Cost: 1.9796642671271827, 
+Time: 0.4538297653198242 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 8
+Brute Force: Best Path: (3, 4, 1, 6, 0, 5, 7, 2), 
+Cost: 2.44630865006746, 
+Time: 0.14377355575561523 seconds
+Dynamic Programming: 
+Cost: 2.4463086500674605, 
+Time: 0.00153350830078125 seconds
+Nearest Neighbor: Best Path: [0, 6, 4, 5, 7, 2, 3, 1, 0], 
+Cost: 2.6633114733545247, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 0, 5, 7, 2, 3, 4, 1], 
+Cost: 2.4463086500674605, 
+Time: 0.0278165340423584 seconds
+Ant Colony: Best Path: [0, 6, 5, 7, 2, 3, 4, 1, 0], 
+Cost: 2.534376458210481, 
+Time: 0.32006072998046875 seconds
+Genetic Algorithm: Best Path: [3, 4, 1, 6, 0, 5, 7, 2], 
+Cost: 2.44630865006746, 
+Time: 0.45496249198913574 seconds
+Brute Force: Best Path: (1, 2, 3, 6, 7, 0, 5, 4), 
+Cost: 2.561607057969823, 
+Time: 0.14270615577697754 seconds
+Dynamic Programming: 
+Cost: 2.5616070579698236, 
+Time: 0.0019218921661376953 seconds
+Nearest Neighbor: Best Path: [0, 7, 6, 3, 2, 1, 4, 5, 0], 
+Cost: 2.5616070579698236, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 4, 1, 2, 3, 6, 7, 0], 
+Cost: 2.561607057969823, 
+Time: 0.02304363250732422 seconds
+Ant Colony: Best Path: [0, 7, 6, 3, 2, 1, 4, 5, 0], 
+Cost: 2.5616070579698236, 
+Time: 0.31944751739501953 seconds
+Genetic Algorithm: Best Path: [4, 5, 0, 7, 6, 3, 2, 1], 
+Cost: 2.561607057969823, 
+Time: 0.46038055419921875 seconds
+Brute Force: Best Path: (0, 2, 5, 7, 1, 4, 6, 3), 
+Cost: 3.028512661289878, 
+Time: 0.13482666015625 seconds
+Dynamic Programming: 
+Cost: 3.028512661289878, 
+Time: 0.008648872375488281 seconds
+Nearest Neighbor: Best Path: [0, 2, 5, 4, 6, 1, 7, 3, 0], 
+Cost: 3.495919991250422, 
+Time: 0.0011069774627685547 seconds
+Simulated Annealing: Best Path: [1, 7, 5, 2, 0, 3, 6, 4], 
+Cost: 3.028512661289878, 
+Time: 0.018272876739501953 seconds
+Ant Colony: Best Path: [0, 2, 5, 7, 1, 4, 6, 3, 0], 
+Cost: 3.028512661289878, 
+Time: 0.3285408020019531 seconds
+Genetic Algorithm: Best Path: [6, 4, 1, 7, 5, 2, 0, 3], 
+Cost: 3.028512661289878, 
+Time: 0.4629178047180176 seconds
+Brute Force: Best Path: (1, 2, 7, 0, 3, 6, 4, 5), 
+Cost: 2.7950409698267946, 
+Time: 0.14029979705810547 seconds
+Dynamic Programming: 
+Cost: 2.795040969826795, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 7, 3, 6, 4, 5, 2, 1, 0], 
+Cost: 3.0855569618872862, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 1, 2, 7, 0, 3, 6, 4], 
+Cost: 2.7950409698267946, 
+Time: 0.03076171875 seconds
+Ant Colony: Best Path: [0, 7, 3, 6, 4, 5, 1, 2, 0], 
+Cost: 2.8012596214903978, 
+Time: 0.3146827220916748 seconds
+Genetic Algorithm: Best Path: [4, 6, 3, 0, 7, 2, 1, 5], 
+Cost: 2.7950409698267946, 
+Time: 0.4700500965118408 seconds
+Brute Force: Best Path: (0, 5, 6, 1, 4, 2, 3, 7), 
+Cost: 2.9118165812242474, 
+Time: 0.13215899467468262 seconds
+Dynamic Programming: 
+Cost: 2.9118165812242474, 
+Time: 0.0024259090423583984 seconds
+Nearest Neighbor: Best Path: [0, 5, 7, 3, 2, 6, 4, 1, 0], 
+Cost: 3.1653525543167085, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 0, 7, 3, 2, 4, 1, 6], 
+Cost: 2.911816581224248, 
+Time: 0.027011632919311523 seconds
+Ant Colony: Best Path: [0, 5, 7, 2, 3, 4, 1, 6, 0], 
+Cost: 3.1024498267073195, 
+Time: 0.30170774459838867 seconds
+Genetic Algorithm: Best Path: [3, 7, 0, 5, 6, 1, 4, 2], 
+Cost: 2.9118165812242474, 
+Time: 0.46401381492614746 seconds
+Brute Force: Best Path: (0, 2, 4, 7, 5, 1, 6, 3), 
+Cost: 2.5147775755131603, 
+Time: 0.14890217781066895 seconds
+Dynamic Programming: 
+Cost: 2.5147775755131603, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 3, 6, 1, 5, 7, 4, 2, 0], 
+Cost: 2.5147775755131607, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 2, 4, 7, 5, 1, 6, 3], 
+Cost: 2.5147775755131603, 
+Time: 0.019873857498168945 seconds
+Ant Colony: Best Path: [0, 3, 6, 1, 5, 7, 4, 2, 0], 
+Cost: 2.5147775755131607, 
+Time: 0.3138573169708252 seconds
+Genetic Algorithm: Best Path: [4, 2, 0, 3, 6, 1, 5, 7], 
+Cost: 2.5147775755131603, 
+Time: 0.4584791660308838 seconds
+Brute Force: Best Path: (0, 6, 1, 3, 2, 5, 4, 7), 
+Cost: 2.6123869825449537, 
+Time: 0.14799284934997559 seconds
+Dynamic Programming: 
+Cost: 2.6123869825449537, 
+Time: 0.00164031982421875 seconds
+Nearest Neighbor: Best Path: [0, 7, 6, 1, 3, 2, 5, 4, 0], 
+Cost: 2.731612655834885, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 7, 4, 5, 2, 3, 1, 6], 
+Cost: 2.6123869825449537, 
+Time: 0.021724224090576172 seconds
+Ant Colony: Best Path: [0, 7, 4, 5, 2, 3, 1, 6, 0], 
+Cost: 2.6123869825449537, 
+Time: 0.3187429904937744 seconds
+Genetic Algorithm: Best Path: [2, 5, 4, 7, 0, 6, 1, 3], 
+Cost: 2.6123869825449537, 
+Time: 0.45590996742248535 seconds
+Brute Force: Best Path: (0, 5, 6, 7, 4, 2, 3, 1), 
+Cost: 2.4094413973273805, 
+Time: 0.13689875602722168 seconds
+Dynamic Programming: 
+Cost: 2.4094413973273805, 
+Time: 0.008101940155029297 seconds
+Nearest Neighbor: Best Path: [0, 5, 1, 3, 2, 4, 7, 6, 0], 
+Cost: 2.4884629673069862, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 6, 7, 4, 2, 3, 1, 0], 
+Cost: 2.4094413973273805, 
+Time: 0.024892091751098633 seconds
+Ant Colony: Best Path: [0, 5, 6, 7, 4, 2, 3, 1, 0], 
+Cost: 2.4094413973273805, 
+Time: 0.3302896022796631 seconds
+Genetic Algorithm: Best Path: [5, 6, 7, 4, 2, 3, 1, 0], 
+Cost: 2.4094413973273805, 
+Time: 0.46400976181030273 seconds
+Brute Force: Best Path: (0, 4, 5, 3, 2, 6, 1, 7), 
+Cost: 2.731731079380081, 
+Time: 0.1538560390472412 seconds
+Dynamic Programming: 
+Cost: 2.731731079380081, 
+Time: 0.005738973617553711 seconds
+Nearest Neighbor: Best Path: [0, 4, 7, 1, 2, 6, 3, 5, 0], 
+Cost: 2.8656207593959873, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 6, 1, 7, 0, 4, 5, 3], 
+Cost: 2.7317310793800815, 
+Time: 0.02066183090209961 seconds
+Ant Colony: Best Path: [0, 4, 7, 1, 6, 2, 3, 5, 0], 
+Cost: 2.7455181028583833, 
+Time: 0.31417012214660645 seconds
+Genetic Algorithm: Best Path: [4, 5, 3, 2, 6, 1, 7, 0], 
+Cost: 2.731731079380081, 
+Time: 0.4514141082763672 seconds
+Brute Force: Best Path: (2, 0, 1, 5, 3, 4, 7, 6), 
+Cost: 2.6215338312765204, 
+Time: 0.13050174713134766 seconds
+Dynamic Programming: 
+Cost: 2.621533831276521, 
+Time: 0.001783132553100586 seconds
+Nearest Neighbor: Best Path: [0, 2, 6, 1, 5, 3, 7, 4, 0], 
+Cost: 3.0508279331675663, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 5, 3, 4, 7, 6, 2, 0], 
+Cost: 2.621533831276521, 
+Time: 0.01889634132385254 seconds
+Ant Colony: Best Path: [0, 2, 6, 7, 4, 3, 5, 1, 0], 
+Cost: 2.621533831276521, 
+Time: 0.32319164276123047 seconds
+Genetic Algorithm: Best Path: [3, 5, 1, 0, 2, 6, 7, 4], 
+Cost: 2.6215338312765204, 
+Time: 0.4584007263183594 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 9
+Brute Force: Best Path: (0, 4, 1, 3, 2, 8, 6, 7, 5), 
+Cost: 2.794943451176268, 
+Time: 1.4256417751312256 seconds
+Dynamic Programming: 
+Cost: 2.794943451176268, 
+Time: 0.0038604736328125 seconds
+Nearest Neighbor: Best Path: [0, 5, 4, 1, 3, 2, 8, 6, 7, 0], 
+Cost: 2.956870155193924, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 0, 4, 1, 3, 2, 8, 6, 7], 
+Cost: 2.794943451176268, 
+Time: 0.0281069278717041 seconds
+Ant Colony: Best Path: [0, 5, 4, 1, 3, 2, 8, 6, 7, 0], 
+Cost: 2.956870155193924, 
+Time: 0.3573145866394043 seconds
+Genetic Algorithm: Best Path: [4, 1, 3, 2, 8, 6, 7, 5, 0], 
+Cost: 2.794943451176268, 
+Time: 0.49494242668151855 seconds
+Brute Force: Best Path: (0, 6, 8, 4, 1, 3, 2, 7, 5), 
+Cost: 2.241834944199842, 
+Time: 1.4278244972229004 seconds
+Dynamic Programming: 
+Cost: 2.241834944199842, 
+Time: 0.005707502365112305 seconds
+Nearest Neighbor: Best Path: [0, 6, 8, 4, 1, 5, 7, 2, 3, 0], 
+Cost: 2.5273483665485843, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [8, 4, 1, 3, 2, 7, 5, 0, 6], 
+Cost: 2.241834944199842, 
+Time: 0.028244972229003906 seconds
+Ant Colony: Best Path: [0, 6, 8, 4, 1, 2, 3, 7, 5, 0], 
+Cost: 2.2893245607753347, 
+Time: 0.3639695644378662 seconds
+Genetic Algorithm: Best Path: [6, 8, 4, 1, 3, 2, 7, 5, 0], 
+Cost: 2.241834944199842, 
+Time: 0.4735884666442871 seconds
+Brute Force: Best Path: (0, 1, 6, 3, 7, 8, 5, 4, 2), 
+Cost: 2.6210633462025754, 
+Time: 1.40299654006958 seconds
+Dynamic Programming: 
+Cost: 2.6210633462025754, 
+Time: 0.0056934356689453125 seconds
+Nearest Neighbor: Best Path: [0, 1, 6, 3, 2, 4, 5, 8, 7, 0], 
+Cost: 3.115836121326363, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [8, 5, 4, 2, 0, 1, 6, 3, 7], 
+Cost: 2.621063346202576, 
+Time: 0.02658557891845703 seconds
+Ant Colony: Best Path: [0, 1, 6, 3, 7, 8, 5, 4, 2, 0], 
+Cost: 2.6210633462025754, 
+Time: 0.35475683212280273 seconds
+Genetic Algorithm: Best Path: [3, 6, 1, 0, 2, 4, 5, 8, 7], 
+Cost: 2.6210633462025754, 
+Time: 0.48964929580688477 seconds
+Brute Force: Best Path: (4, 0, 6, 8, 2, 5, 1, 7, 3), 
+Cost: 2.7540919001781696, 
+Time: 1.412536382675171 seconds
+Dynamic Programming: 
+Cost: 2.75409190017817, 
+Time: 0.0027086734771728516 seconds
+Nearest Neighbor: Best Path: [0, 4, 3, 7, 8, 6, 1, 2, 5, 0], 
+Cost: 3.185223899189486, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 6, 8, 2, 5, 1, 7, 3, 4], 
+Cost: 2.75409190017817, 
+Time: 0.02075028419494629 seconds
+Ant Colony: Best Path: [0, 4, 3, 7, 1, 5, 2, 8, 6, 0], 
+Cost: 2.75409190017817, 
+Time: 0.3635413646697998 seconds
+Genetic Algorithm: Best Path: [5, 2, 8, 6, 0, 4, 3, 7, 1], 
+Cost: 2.7540919001781696, 
+Time: 0.5433578491210938 seconds
+Brute Force: Best Path: (1, 7, 4, 2, 6, 0, 5, 3, 8), 
+Cost: 3.063354423140221, 
+Time: 1.3745074272155762 seconds
+Dynamic Programming: 
+Cost: 3.0633544231402214, 
+Time: 0.006644248962402344 seconds
+Nearest Neighbor: Best Path: [0, 6, 2, 4, 1, 5, 3, 8, 7, 0], 
+Cost: 3.5026589337436724, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 2, 4, 7, 1, 8, 3, 5, 0], 
+Cost: 3.0633544231402214, 
+Time: 0.023696422576904297 seconds
+Ant Colony: Best Path: [0, 6, 2, 4, 1, 5, 3, 8, 7, 0], 
+Cost: 3.5026589337436724, 
+Time: 0.3455464839935303 seconds
+Genetic Algorithm: Best Path: [8, 1, 7, 4, 2, 6, 0, 5, 3], 
+Cost: 3.063354423140221, 
+Time: 0.4904000759124756 seconds
+Brute Force: Best Path: (0, 1, 8, 4, 7, 6, 3, 2, 5), 
+Cost: 2.588746831300168, 
+Time: 1.3693082332611084 seconds
+Dynamic Programming: 
+Cost: 2.588746831300168, 
+Time: 0.00872802734375 seconds
+Nearest Neighbor: Best Path: [0, 1, 8, 4, 2, 5, 3, 6, 7, 0], 
+Cost: 2.9867299542224397, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 1, 8, 4, 7, 6, 3, 2, 5], 
+Cost: 2.588746831300168, 
+Time: 0.02526569366455078 seconds
+Ant Colony: Best Path: [0, 1, 8, 4, 7, 6, 3, 2, 5, 0], 
+Cost: 2.588746831300168, 
+Time: 0.35106515884399414 seconds
+Genetic Algorithm: Best Path: [5, 0, 1, 8, 4, 7, 6, 3, 2], 
+Cost: 2.588746831300168, 
+Time: 0.4885561466217041 seconds
+Brute Force: Best Path: (0, 1, 2, 4, 7, 6, 8, 5, 3), 
+Cost: 3.09822242578989, 
+Time: 1.43477201461792 seconds
+Dynamic Programming: 
+Cost: 3.09822242578989, 
+Time: 0.002162933349609375 seconds
+Nearest Neighbor: Best Path: [0, 3, 5, 1, 2, 4, 7, 6, 8, 0], 
+Cost: 3.314774981733078, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 8, 6, 7, 4, 2, 1, 0, 3], 
+Cost: 3.0982224257898903, 
+Time: 0.028052806854248047 seconds
+Ant Colony: Best Path: [0, 3, 5, 1, 2, 4, 7, 6, 8, 0], 
+Cost: 3.314774981733078, 
+Time: 0.3551900386810303 seconds
+Genetic Algorithm: Best Path: [4, 7, 6, 8, 5, 3, 0, 1, 2], 
+Cost: 3.09822242578989, 
+Time: 0.4996824264526367 seconds
+Brute Force: Best Path: (1, 7, 0, 8, 6, 2, 3, 5, 4), 
+Cost: 3.2748100161595897, 
+Time: 1.4497952461242676 seconds
+Dynamic Programming: 
+Cost: 3.27481001615959, 
+Time: 0.011600971221923828 seconds
+Nearest Neighbor: Best Path: [0, 7, 1, 3, 2, 5, 4, 6, 8, 0], 
+Cost: 3.5758836605001685, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 0, 8, 6, 2, 3, 5, 4, 1], 
+Cost: 3.27481001615959, 
+Time: 0.02685999870300293 seconds
+Ant Colony: Best Path: [0, 8, 6, 2, 3, 5, 4, 1, 7, 0], 
+Cost: 3.27481001615959, 
+Time: 0.36338210105895996 seconds
+Genetic Algorithm: Best Path: [4, 1, 7, 0, 8, 6, 2, 3, 5], 
+Cost: 3.2748100161595897, 
+Time: 0.4933662414550781 seconds
+Brute Force: Best Path: (0, 2, 1, 8, 5, 6, 3, 7, 4), 
+Cost: 2.0315180832380486, 
+Time: 1.3706638813018799 seconds
+Dynamic Programming: 
+Cost: 2.0315180832380486, 
+Time: 0.0025262832641601562 seconds
+Nearest Neighbor: Best Path: [0, 4, 7, 3, 6, 2, 1, 5, 8, 0], 
+Cost: 2.320241776314435, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 2, 0, 4, 7, 3, 6, 5, 8], 
+Cost: 2.0315180832380486, 
+Time: 0.02530360221862793 seconds
+Ant Colony: Best Path: [0, 4, 7, 3, 6, 2, 1, 8, 5, 0], 
+Cost: 2.271347783713302, 
+Time: 0.3506314754486084 seconds
+Genetic Algorithm: Best Path: [6, 3, 7, 4, 0, 2, 1, 8, 5], 
+Cost: 2.0315180832380486, 
+Time: 0.4773736000061035 seconds
+Brute Force: Best Path: (7, 6, 4, 3, 8, 0, 1, 5, 2), 
+Cost: 3.25601942264431, 
+Time: 1.4941823482513428 seconds
+Dynamic Programming: 
+Cost: 3.2560194226443104, 
+Time: 0.0 seconds
+Nearest Neighbor: Best Path: [0, 1, 5, 2, 7, 6, 4, 3, 8, 0], 
+Cost: 3.2560194226443104, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 5, 2, 7, 6, 4, 3, 8, 0], 
+Cost: 3.2560194226443104, 
+Time: 0.017331838607788086 seconds
+Ant Colony: Best Path: [0, 1, 5, 2, 7, 6, 4, 3, 8, 0], 
+Cost: 3.2560194226443104, 
+Time: 0.3481299877166748 seconds
+Genetic Algorithm: Best Path: [7, 6, 4, 3, 8, 0, 1, 5, 2], 
+Cost: 3.25601942264431, 
+Time: 0.5226237773895264 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 10
+Brute Force: Best Path: (0, 6, 7, 5, 1, 8, 2, 4, 3, 9), 
+Cost: 3.086906214187948, 
+Time: 15.202510118484497 seconds
+Dynamic Programming: 
+Cost: 3.086906214187948, 
+Time: 0.008742570877075195 seconds
+Nearest Neighbor: Best Path: [0, 9, 3, 2, 8, 1, 5, 4, 6, 7, 0], 
+Cost: 3.589673261807614, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 5, 7, 6, 0, 9, 3, 4, 2, 8], 
+Cost: 3.086906214187948, 
+Time: 0.021764516830444336 seconds
+Ant Colony: Best Path: [0, 6, 7, 9, 3, 2, 5, 1, 8, 4, 0], 
+Cost: 3.328585464469408, 
+Time: 0.41080379486083984 seconds
+Genetic Algorithm: Best Path: [9, 3, 4, 2, 8, 1, 5, 7, 6, 0], 
+Cost: 3.086906214187948, 
+Time: 0.5072860717773438 seconds
+Brute Force: Best Path: (2, 3, 7, 6, 0, 1, 4, 5, 9, 8), 
+Cost: 2.598715090530807, 
+Time: 16.039397954940796 seconds
+Dynamic Programming: 
+Cost: 2.5987150905308076, 
+Time: 0.0173642635345459 seconds
+Nearest Neighbor: Best Path: [0, 6, 7, 2, 3, 1, 9, 4, 5, 8, 0], 
+Cost: 3.0024865020060805, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [9, 5, 4, 1, 0, 6, 7, 3, 2, 8], 
+Cost: 2.5987150905308076, 
+Time: 0.03390049934387207 seconds
+Ant Colony: Best Path: [0, 1, 9, 4, 5, 8, 2, 3, 7, 6, 0], 
+Cost: 2.7667351717792705, 
+Time: 0.4358186721801758 seconds
+Genetic Algorithm: Best Path: [7, 6, 0, 1, 4, 5, 9, 8, 2, 3], 
+Cost: 2.598715090530807, 
+Time: 0.5719699859619141 seconds
+Brute Force: Best Path: (0, 4, 5, 6, 8, 2, 1, 7, 9, 3), 
+Cost: 3.0882181965025843, 
+Time: 16.4699125289917 seconds
+Dynamic Programming: 
+Cost: 3.0882181965025843, 
+Time: 0.008000850677490234 seconds
+Nearest Neighbor: Best Path: [0, 4, 5, 6, 8, 2, 1, 7, 9, 3, 0], 
+Cost: 3.0882181965025843, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 1, 2, 8, 6, 5, 4, 0, 3, 9], 
+Cost: 3.0882181965025843, 
+Time: 0.028272628784179688 seconds
+Ant Colony: Best Path: [0, 4, 5, 6, 8, 2, 1, 9, 7, 3, 0], 
+Cost: 3.147068374107293, 
+Time: 0.4009718894958496 seconds
+Genetic Algorithm: Best Path: [7, 1, 2, 8, 6, 5, 4, 0, 3, 9], 
+Cost: 3.0882181965025843, 
+Time: 0.5721545219421387 seconds
+Brute Force: Best Path: (2, 7, 6, 9, 5, 8, 4, 1, 3, 0), 
+Cost: 2.6307858089674085, 
+Time: 16.26245880126953 seconds
+Dynamic Programming: 
+Cost: 2.630785808967409, 
+Time: 0.009999275207519531 seconds
+Nearest Neighbor: Best Path: [0, 3, 1, 4, 8, 5, 6, 7, 2, 9, 0], 
+Cost: 3.440436346730056, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 2, 0, 3, 1, 4, 8, 5, 9, 6], 
+Cost: 2.630785808967409, 
+Time: 0.02369070053100586 seconds
+Ant Colony: Best Path: [0, 3, 1, 4, 8, 5, 9, 6, 7, 2, 0], 
+Cost: 2.630785808967409, 
+Time: 0.400068998336792 seconds
+Genetic Algorithm: Best Path: [4, 1, 3, 0, 2, 7, 6, 9, 5, 8], 
+Cost: 2.6307858089674085, 
+Time: 0.5215902328491211 seconds
+Brute Force: Best Path: (2, 5, 4, 7, 0, 1, 8, 3, 9, 6), 
+Cost: 2.5717857170749476, 
+Time: 15.314703226089478 seconds
+Dynamic Programming: 
+Cost: 2.571785717074948, 
+Time: 0.011665582656860352 seconds
+Nearest Neighbor: Best Path: [0, 7, 3, 4, 9, 6, 2, 5, 8, 1, 0], 
+Cost: 2.6827250134698444, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 2, 5, 3, 8, 1, 0, 7, 4, 9], 
+Cost: 2.6160494074479446, 
+Time: 0.02335190773010254 seconds
+Ant Colony: Best Path: [0, 7, 1, 8, 3, 4, 9, 6, 2, 5, 0], 
+Cost: 2.633775705237001, 
+Time: 0.41584134101867676 seconds
+Genetic Algorithm: Best Path: [2, 5, 4, 7, 0, 1, 8, 3, 9, 6], 
+Cost: 2.5717857170749476, 
+Time: 0.534127950668335 seconds
+Brute Force: Best Path: (6, 1, 7, 2, 9, 4, 8, 3, 0, 5), 
+Cost: 3.099384392823515, 
+Time: 15.158823013305664 seconds
+Dynamic Programming: 
+Cost: 3.0993843928235156, 
+Time: 0.00998997688293457 seconds
+Nearest Neighbor: Best Path: [0, 3, 8, 4, 7, 1, 9, 2, 6, 5, 0], 
+Cost: 3.365517564317088, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 2, 9, 4, 8, 3, 0, 5, 6, 1], 
+Cost: 3.099384392823516, 
+Time: 0.022695064544677734 seconds
+Ant Colony: Best Path: [0, 5, 6, 1, 7, 9, 2, 4, 8, 3, 0], 
+Cost: 3.173933040539687, 
+Time: 0.39104533195495605 seconds
+Genetic Algorithm: Best Path: [6, 1, 7, 2, 9, 4, 8, 3, 0, 5], 
+Cost: 3.099384392823515, 
+Time: 0.5506577491760254 seconds
+Brute Force: Best Path: (0, 7, 9, 5, 6, 2, 8, 4, 1, 3), 
+Cost: 2.7741237249693933, 
+Time: 15.026756286621094 seconds
+Dynamic Programming: 
+Cost: 2.7741237249693933, 
+Time: 0.00773310661315918 seconds
+Nearest Neighbor: Best Path: [0, 7, 9, 6, 2, 8, 4, 3, 1, 5, 0], 
+Cost: 3.6190324665020634, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 8, 4, 1, 3, 0, 7, 9, 5, 6], 
+Cost: 2.7741237249693933, 
+Time: 0.025845050811767578 seconds
+Ant Colony: Best Path: [0, 7, 9, 5, 6, 2, 8, 4, 3, 1, 0], 
+Cost: 2.94701965476909, 
+Time: 0.38914918899536133 seconds
+Genetic Algorithm: Best Path: [9, 7, 0, 3, 1, 4, 8, 2, 6, 5], 
+Cost: 2.7741237249693933, 
+Time: 0.5068366527557373 seconds
+Brute Force: Best Path: (4, 3, 5, 9, 1, 8, 7, 0, 2, 6), 
+Cost: 3.2422120262144434, 
+Time: 15.264203310012817 seconds
+Dynamic Programming: 
+Cost: 3.242212026214444, 
+Time: 0.0010051727294921875 seconds
+Nearest Neighbor: Best Path: [0, 7, 8, 6, 2, 4, 3, 5, 1, 9, 0], 
+Cost: 3.6532537953135558, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 6, 4, 3, 5, 9, 1, 8, 7, 0], 
+Cost: 3.2422120262144443, 
+Time: 0.02712082862854004 seconds
+Ant Colony: Best Path: [0, 7, 8, 1, 5, 9, 3, 4, 6, 2, 0], 
+Cost: 3.2478732561670918, 
+Time: 0.39044857025146484 seconds
+Genetic Algorithm: Best Path: [4, 3, 5, 9, 1, 8, 7, 0, 2, 6], 
+Cost: 3.2422120262144434, 
+Time: 0.543330192565918 seconds
+Brute Force: Best Path: (1, 2, 7, 5, 3, 0, 8, 4, 9, 6), 
+Cost: 3.535270349268953, 
+Time: 15.227044105529785 seconds
+Dynamic Programming: 
+Cost: 3.5352703492689534, 
+Time: 0.01156759262084961 seconds
+Nearest Neighbor: Best Path: [0, 8, 3, 5, 6, 9, 1, 2, 7, 4, 0], 
+Cost: 4.173345515809802, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 8, 3, 5, 6, 4, 9, 1, 2, 7], 
+Cost: 3.5691451760687416, 
+Time: 0.024518489837646484 seconds
+Ant Colony: Best Path: [0, 8, 3, 5, 7, 6, 1, 2, 9, 4, 0], 
+Cost: 3.7343642272102935, 
+Time: 0.39336419105529785 seconds
+Genetic Algorithm: Best Path: [7, 5, 3, 0, 8, 4, 9, 6, 1, 2], 
+Cost: 3.535270349268953, 
+Time: 0.5308921337127686 seconds
+Brute Force: Best Path: (0, 7, 5, 3, 1, 4, 2, 8, 6, 9), 
+Cost: 2.7529635178506395, 
+Time: 15.136743068695068 seconds
+Dynamic Programming: 
+Cost: 2.7529635178506395, 
+Time: 0.001775503158569336 seconds
+Nearest Neighbor: Best Path: [0, 9, 7, 5, 3, 1, 4, 2, 8, 6, 0], 
+Cost: 3.084453380881315, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 5, 7, 0, 9, 6, 8, 2, 4, 1], 
+Cost: 2.7529635178506395, 
+Time: 0.026894330978393555 seconds
+Ant Colony: Best Path: [0, 7, 5, 3, 1, 4, 2, 8, 6, 9, 0], 
+Cost: 2.7529635178506395, 
+Time: 0.39115047454833984 seconds
+Genetic Algorithm: Best Path: [2, 8, 6, 9, 0, 7, 5, 3, 1, 4], 
+Cost: 2.7529635178506395, 
+Time: 0.5327389240264893 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 11
+Dynamic Programming: 
+Cost: 3.275367707090544, 
+Time: 0.02164149284362793 seconds
+Nearest Neighbor: Best Path: [0, 6, 4, 10, 2, 3, 7, 9, 5, 1, 8, 0], 
+Cost: 3.311297743773141, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 10, 2, 3, 7, 1, 5, 9, 8, 0, 6], 
+Cost: 3.2753677070905445, 
+Time: 0.028995275497436523 seconds
+Ant Colony: Best Path: [0, 6, 4, 10, 2, 3, 7, 1, 5, 9, 8, 0], 
+Cost: 3.275367707090544, 
+Time: 0.4544658660888672 seconds
+Genetic Algorithm: Best Path: [10, 4, 6, 0, 8, 9, 5, 1, 7, 3, 2], 
+Cost: 3.2753677070905436, 
+Time: 0.5599563121795654 seconds
+Dynamic Programming: 
+Cost: 2.7786717188466, 
+Time: 0.024630308151245117 seconds
+Nearest Neighbor: Best Path: [0, 6, 2, 1, 3, 4, 8, 7, 5, 10, 9, 0], 
+Cost: 2.7786717188466, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [9, 0, 6, 2, 1, 3, 4, 8, 7, 5, 10], 
+Cost: 2.7786717188465997, 
+Time: 0.02783513069152832 seconds
+Ant Colony: Best Path: [0, 6, 2, 1, 3, 4, 8, 7, 5, 10, 9, 0], 
+Cost: 2.7786717188466, 
+Time: 0.445204496383667 seconds
+Genetic Algorithm: Best Path: [6, 2, 1, 3, 4, 8, 7, 5, 10, 9, 0], 
+Cost: 2.7786717188465992, 
+Time: 0.5496072769165039 seconds
+Dynamic Programming: 
+Cost: 2.680422106898313, 
+Time: 0.025783777236938477 seconds
+Nearest Neighbor: Best Path: [0, 7, 10, 1, 2, 4, 9, 6, 8, 3, 5, 0], 
+Cost: 2.7670939071412226, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 9, 6, 2, 10, 1, 7, 0, 5, 3, 8], 
+Cost: 2.680422106898314, 
+Time: 0.027891159057617188 seconds
+Ant Colony: Best Path: [0, 7, 1, 10, 2, 6, 9, 4, 8, 3, 5, 0], 
+Cost: 2.6804221068983134, 
+Time: 0.4290459156036377 seconds
+Genetic Algorithm: Best Path: [5, 3, 8, 4, 9, 6, 2, 10, 1, 7, 0], 
+Cost: 2.680422106898313, 
+Time: 0.5659003257751465 seconds
+Dynamic Programming: 
+Cost: 2.808821036327098, 
+Time: 0.02963566780090332 seconds
+Nearest Neighbor: Best Path: [0, 9, 1, 5, 10, 3, 2, 7, 4, 6, 8, 0], 
+Cost: 2.8088210363270987, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 10, 5, 1, 9, 0, 8, 6, 4, 7, 2], 
+Cost: 2.8088210363270982, 
+Time: 0.02458667755126953 seconds
+Ant Colony: Best Path: [0, 9, 1, 5, 10, 3, 2, 7, 4, 6, 8, 0], 
+Cost: 2.8088210363270987, 
+Time: 0.4282369613647461 seconds
+Genetic Algorithm: Best Path: [5, 10, 3, 2, 7, 4, 6, 8, 0, 9, 1], 
+Cost: 2.808821036327098, 
+Time: 0.5624935626983643 seconds
+Dynamic Programming: 
+Cost: 3.2430370660734056, 
+Time: 0.02368760108947754 seconds
+Nearest Neighbor: Best Path: [0, 5, 8, 10, 3, 6, 1, 2, 7, 4, 9, 0], 
+Cost: 3.5763202915963612, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 9, 7, 4, 2, 0, 5, 8, 10, 1, 6], 
+Cost: 3.4015569681891082, 
+Time: 0.02360844612121582 seconds
+Ant Colony: Best Path: [0, 5, 8, 10, 3, 6, 1, 2, 4, 7, 9, 0], 
+Cost: 3.512714769345351, 
+Time: 0.4360055923461914 seconds
+Genetic Algorithm: Best Path: [4, 7, 9, 8, 10, 3, 6, 1, 5, 0, 2], 
+Cost: 3.243037066073405, 
+Time: 0.536048412322998 seconds
+Dynamic Programming: 
+Cost: 2.8046337388473876, 
+Time: 0.029590129852294922 seconds
+Nearest Neighbor: Best Path: [0, 5, 10, 1, 9, 2, 3, 6, 8, 7, 4, 0], 
+Cost: 3.0598152228606197, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 8, 0, 5, 10, 1, 7, 4, 9, 2, 3], 
+Cost: 2.8641304772923117, 
+Time: 0.027628421783447266 seconds
+Ant Colony: Best Path: [0, 5, 10, 1, 4, 7, 8, 6, 3, 2, 9, 0], 
+Cost: 2.8046337388473876, 
+Time: 0.4481387138366699 seconds
+Genetic Algorithm: Best Path: [1, 10, 5, 0, 9, 2, 3, 6, 8, 7, 4], 
+Cost: 2.8046337388473876, 
+Time: 0.5442342758178711 seconds
+Dynamic Programming: 
+Cost: 2.7412556068727625, 
+Time: 0.020290374755859375 seconds
+Nearest Neighbor: Best Path: [0, 6, 5, 4, 2, 7, 1, 8, 9, 3, 10, 0], 
+Cost: 3.276559791492187, 
+Time: 0.001107931137084961 seconds
+Simulated Annealing: Best Path: [3, 9, 5, 6, 0, 4, 2, 7, 8, 1, 10], 
+Cost: 2.741255606872763, 
+Time: 0.030272960662841797 seconds
+Ant Colony: Best Path: [0, 6, 4, 2, 7, 8, 1, 10, 9, 3, 5, 0], 
+Cost: 2.9021321826093076, 
+Time: 0.44554638862609863 seconds
+Genetic Algorithm: Best Path: [8, 7, 2, 4, 0, 6, 5, 9, 3, 10, 1], 
+Cost: 2.741255606872762, 
+Time: 0.544349193572998 seconds
+Dynamic Programming: 
+Cost: 2.6671450310608695, 
+Time: 0.02136969566345215 seconds
+Nearest Neighbor: Best Path: [0, 5, 1, 8, 9, 10, 4, 6, 3, 7, 2, 0], 
+Cost: 2.9664177356165715, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 10, 9, 8, 2, 7, 5, 0, 1, 3, 6], 
+Cost: 2.667145031060869, 
+Time: 0.023949146270751953 seconds
+Ant Colony: Best Path: [0, 5, 7, 2, 8, 9, 10, 4, 6, 3, 1, 0], 
+Cost: 2.6671450310608695, 
+Time: 0.44188356399536133 seconds
+Genetic Algorithm: Best Path: [6, 3, 1, 0, 5, 7, 2, 8, 9, 10, 4], 
+Cost: 2.6671450310608686, 
+Time: 0.5371799468994141 seconds
+Dynamic Programming: 
+Cost: 3.014000111619276, 
+Time: 0.028371572494506836 seconds
+Nearest Neighbor: Best Path: [0, 6, 10, 5, 1, 3, 8, 2, 7, 9, 4, 0], 
+Cost: 3.0553994876563224, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [10, 5, 1, 8, 3, 2, 7, 9, 4, 0, 6], 
+Cost: 3.014000111619276, 
+Time: 0.021625757217407227 seconds
+Ant Colony: Best Path: [0, 6, 4, 9, 7, 2, 3, 8, 1, 5, 10, 0], 
+Cost: 3.0256505753770675, 
+Time: 0.4450850486755371 seconds
+Genetic Algorithm: Best Path: [5, 10, 6, 0, 4, 9, 7, 2, 3, 8, 1], 
+Cost: 3.014000111619276, 
+Time: 0.6368277072906494 seconds
+Dynamic Programming: 
+Cost: 2.734054849029629, 
+Time: 0.03652167320251465 seconds
+Nearest Neighbor: Best Path: [0, 6, 3, 7, 2, 1, 10, 8, 5, 4, 9, 0], 
+Cost: 3.074244859778207, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 6, 0, 3, 9, 4, 10, 5, 8, 1, 2], 
+Cost: 2.7340548490296293, 
+Time: 0.025441646575927734 seconds
+Ant Colony: Best Path: [0, 3, 6, 7, 2, 1, 5, 8, 10, 4, 9, 0], 
+Cost: 2.87288493341128, 
+Time: 0.4536728858947754 seconds
+Genetic Algorithm: Best Path: [4, 10, 5, 8, 1, 2, 7, 6, 0, 3, 9], 
+Cost: 2.734054849029629, 
+Time: 0.5897049903869629 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 13
+Dynamic Programming: 
+Cost: 3.579336396682047, 
+Time: 0.13026189804077148 seconds
+Nearest Neighbor: Best Path: [0, 10, 2, 9, 11, 8, 4, 6, 3, 12, 1, 5, 7, 0], 
+Cost: 3.9280761724505444, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 12, 1, 5, 7, 2, 0, 9, 11, 10, 8, 4, 6], 
+Cost: 3.658245847458664, 
+Time: 0.03870129585266113 seconds
+Ant Colony: Best Path: [0, 10, 2, 7, 5, 3, 12, 1, 6, 8, 4, 11, 9, 0], 
+Cost: 3.65513239904441, 
+Time: 0.5390133857727051 seconds
+Genetic Algorithm: Best Path: [3, 6, 8, 4, 11, 9, 0, 10, 2, 7, 5, 1, 12], 
+Cost: 3.579336396682047, 
+Time: 0.5897448062896729 seconds
+Dynamic Programming: 
+Cost: 2.281216290409927, 
+Time: 0.12967538833618164 seconds
+Nearest Neighbor: Best Path: [0, 12, 6, 10, 9, 5, 1, 3, 7, 4, 2, 8, 11, 0], 
+Cost: 3.4794688440842796, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [8, 11, 1, 3, 7, 4, 2, 0, 12, 9, 6, 10, 5], 
+Cost: 2.281216290409927, 
+Time: 0.023042678833007812 seconds
+Ant Colony: Best Path: [0, 12, 6, 10, 9, 5, 8, 11, 1, 3, 7, 4, 2, 0], 
+Cost: 2.368720758184487, 
+Time: 0.5471041202545166 seconds
+Genetic Algorithm: Best Path: [11, 1, 3, 7, 4, 2, 0, 12, 9, 6, 10, 5, 8], 
+Cost: 2.281216290409927, 
+Time: 0.6224257946014404 seconds
+Dynamic Programming: 
+Cost: 3.3835838357841213, 
+Time: 0.12778806686401367 seconds
+Nearest Neighbor: Best Path: [0, 5, 2, 1, 7, 12, 10, 3, 6, 8, 11, 4, 9, 0], 
+Cost: 4.237957889453157, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 8, 11, 4, 9, 7, 12, 10, 5, 0, 3, 2, 1], 
+Cost: 3.3835838357841213, 
+Time: 0.02976250648498535 seconds
+Ant Colony: Best Path: [0, 5, 10, 12, 2, 1, 7, 9, 4, 11, 8, 6, 3, 0], 
+Cost: 3.532598900176786, 
+Time: 0.5230307579040527 seconds
+Genetic Algorithm: Best Path: [4, 9, 7, 12, 10, 5, 0, 3, 2, 1, 6, 8, 11], 
+Cost: 3.3835838357841213, 
+Time: 0.613807201385498 seconds
+Dynamic Programming: 
+Cost: 3.535184308923612, 
+Time: 0.12284398078918457 seconds
+Nearest Neighbor: Best Path: [0, 5, 3, 12, 2, 7, 8, 4, 10, 9, 6, 1, 11, 0], 
+Cost: 3.732809543045331, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 2, 12, 9, 6, 1, 11, 4, 10, 8, 5, 0, 3], 
+Cost: 3.631485019377088, 
+Time: 0.029353857040405273 seconds
+Ant Colony: Best Path: [0, 5, 3, 7, 2, 12, 8, 4, 10, 9, 6, 1, 11, 0], 
+Cost: 3.6755054274683086, 
+Time: 0.536107063293457 seconds
+Genetic Algorithm: Best Path: [2, 7, 3, 0, 5, 4, 11, 1, 6, 9, 10, 8, 12], 
+Cost: 3.535184308923612, 
+Time: 0.6333844661712646 seconds
+Dynamic Programming: 
+Cost: 2.8241199692206402, 
+Time: 0.13626384735107422 seconds
+Nearest Neighbor: Best Path: [0, 12, 2, 1, 4, 10, 7, 8, 5, 9, 6, 3, 11, 0], 
+Cost: 3.3239284549591908, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [12, 0, 2, 1, 6, 3, 11, 5, 8, 9, 7, 10, 4], 
+Cost: 2.9918728115269237, 
+Time: 0.033349037170410156 seconds
+Ant Colony: Best Path: [0, 12, 2, 1, 4, 10, 7, 8, 5, 11, 3, 6, 9, 0], 
+Cost: 2.899718284006189, 
+Time: 0.5385303497314453 seconds
+Genetic Algorithm: Best Path: [1, 9, 6, 3, 11, 5, 8, 7, 10, 4, 12, 0, 2], 
+Cost: 2.82411996922064, 
+Time: 0.6133930683135986 seconds
+Dynamic Programming: 
+Cost: 3.460218221691645, 
+Time: 0.13306331634521484 seconds
+Nearest Neighbor: Best Path: [0, 3, 10, 11, 4, 6, 2, 7, 8, 1, 5, 9, 12, 0], 
+Cost: 3.7426239974742117, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 1, 8, 7, 2, 6, 4, 11, 10, 0, 3, 9, 12], 
+Cost: 3.7369497129395435, 
+Time: 0.03280997276306152 seconds
+Ant Colony: Best Path: [0, 3, 10, 11, 4, 6, 2, 7, 8, 1, 5, 9, 12, 0], 
+Cost: 3.7426239974742117, 
+Time: 0.5346648693084717 seconds
+Genetic Algorithm: Best Path: [3, 10, 11, 4, 6, 2, 7, 8, 12, 9, 5, 1, 0], 
+Cost: 3.460218221691645, 
+Time: 0.6194958686828613 seconds
+Dynamic Programming: 
+Cost: 3.511480840237015, 
+Time: 0.12440729141235352 seconds
+Nearest Neighbor: Best Path: [0, 8, 7, 2, 1, 6, 5, 3, 4, 11, 10, 9, 12, 0], 
+Cost: 4.363247180415677, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 6, 5, 4, 3, 0, 11, 10, 8, 7, 9, 2, 12], 
+Cost: 3.5114808402370152, 
+Time: 0.029959678649902344 seconds
+Ant Colony: Best Path: [0, 8, 7, 2, 1, 6, 5, 4, 3, 12, 9, 10, 11, 0], 
+Cost: 3.8457354952119323, 
+Time: 0.5257008075714111 seconds
+Genetic Algorithm: Best Path: [2, 12, 1, 6, 5, 4, 3, 0, 11, 10, 8, 7, 9], 
+Cost: 3.511480840237015, 
+Time: 0.6227884292602539 seconds
+Dynamic Programming: 
+Cost: 2.931133149208936, 
+Time: 0.13389229774475098 seconds
+Nearest Neighbor: Best Path: [0, 5, 7, 2, 4, 1, 3, 11, 6, 12, 9, 10, 8, 0], 
+Cost: 3.0367368793961322, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 2, 4, 1, 7, 8, 10, 9, 12, 6, 11, 3, 5], 
+Cost: 3.2182936221043814, 
+Time: 0.036554813385009766 seconds
+Ant Colony: Best Path: [0, 5, 7, 2, 4, 1, 3, 11, 6, 12, 9, 10, 8, 0], 
+Cost: 3.0367368793961322, 
+Time: 0.5394549369812012 seconds
+Genetic Algorithm: Best Path: [3, 12, 9, 10, 8, 5, 0, 2, 7, 4, 1, 6, 11], 
+Cost: 2.931133149208935, 
+Time: 0.62314772605896 seconds
+Dynamic Programming: 
+Cost: 3.2277469265963292, 
+Time: 0.13758277893066406 seconds
+Nearest Neighbor: Best Path: [0, 9, 12, 2, 10, 3, 11, 8, 6, 1, 4, 5, 7, 0], 
+Cost: 3.686699772980676, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 4, 5, 0, 9, 7, 12, 2, 10, 3, 6, 8, 11], 
+Cost: 3.317273634551343, 
+Time: 0.03393697738647461 seconds
+Ant Colony: Best Path: [0, 9, 7, 12, 2, 10, 3, 11, 8, 6, 1, 4, 5, 0], 
+Cost: 3.364596539253565, 
+Time: 0.5469651222229004 seconds
+Genetic Algorithm: Best Path: [1, 12, 2, 10, 3, 11, 8, 6, 7, 9, 0, 5, 4], 
+Cost: 3.227746926596329, 
+Time: 0.6297507286071777 seconds
+Dynamic Programming: 
+Cost: 3.503455417150328, 
+Time: 0.12656211853027344 seconds
+Nearest Neighbor: Best Path: [0, 7, 2, 5, 3, 1, 10, 6, 8, 9, 4, 12, 11, 0], 
+Cost: 3.7732206244231663, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 9, 8, 6, 1, 10, 2, 7, 0, 5, 3, 11, 12], 
+Cost: 3.503455417150328, 
+Time: 0.03562211990356445 seconds
+Ant Colony: Best Path: [0, 7, 2, 10, 1, 6, 8, 9, 4, 12, 11, 3, 5, 0], 
+Cost: 3.503455417150328, 
+Time: 0.5346014499664307 seconds
+Genetic Algorithm: Best Path: [1, 10, 2, 7, 0, 5, 3, 11, 12, 4, 9, 8, 6], 
+Cost: 3.503455417150328, 
+Time: 0.6195683479309082 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 15
+Dynamic Programming: 
+Cost: 3.545390385655621, 
+Time: 0.7800540924072266 seconds
+Nearest Neighbor: Best Path: [0, 1, 7, 5, 12, 6, 3, 8, 4, 10, 9, 2, 13, 11, 14, 0], 
+Cost: 4.674661846428554, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 10, 9, 2, 13, 11, 7, 1, 0, 4, 8, 3, 14, 6, 12], 
+Cost: 3.7165725390598876, 
+Time: 0.03395581245422363 seconds
+Ant Colony: Best Path: [0, 1, 7, 5, 12, 6, 14, 3, 8, 4, 10, 9, 2, 13, 11, 0], 
+Cost: 3.5865435745523455, 
+Time: 0.6156754493713379 seconds
+Genetic Algorithm: Best Path: [12, 5, 0, 1, 7, 11, 13, 2, 9, 10, 4, 8, 3, 14, 6], 
+Cost: 3.545390385655621, 
+Time: 0.6761777400970459 seconds
+Dynamic Programming: 
+Cost: 2.711821943021123, 
+Time: 0.7505629062652588 seconds
+Nearest Neighbor: Best Path: [0, 10, 8, 5, 3, 11, 13, 2, 7, 12, 6, 14, 4, 1, 9, 0], 
+Cost: 2.8225841451000706, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 14, 7, 12, 6, 2, 3, 1, 9, 10, 0, 8, 5, 13, 11], 
+Cost: 2.970637468798187, 
+Time: 0.03620648384094238 seconds
+Ant Colony: Best Path: [0, 10, 8, 5, 3, 11, 13, 2, 7, 6, 12, 14, 4, 1, 9, 0], 
+Cost: 2.8122315351188107, 
+Time: 0.6289176940917969 seconds
+Genetic Algorithm: Best Path: [14, 4, 1, 9, 10, 0, 8, 5, 3, 11, 13, 2, 6, 12, 7], 
+Cost: 2.711821943021123, 
+Time: 0.6834940910339355 seconds
+Dynamic Programming: 
+Cost: 3.720252080091099, 
+Time: 0.742746114730835 seconds
+Nearest Neighbor: Best Path: [0, 1, 5, 13, 14, 11, 4, 9, 3, 10, 7, 6, 8, 2, 12, 0], 
+Cost: 4.321916791985352, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [1, 12, 2, 4, 7, 6, 10, 3, 9, 11, 8, 14, 5, 13, 0], 
+Cost: 4.198785864933886, 
+Time: 0.03632760047912598 seconds
+Ant Colony: Best Path: [0, 1, 14, 13, 5, 2, 12, 3, 10, 9, 4, 11, 7, 6, 8, 0], 
+Cost: 4.0765082754145405, 
+Time: 0.6320698261260986 seconds
+Genetic Algorithm: Best Path: [9, 10, 3, 12, 2, 1, 0, 13, 5, 14, 8, 6, 7, 11, 4], 
+Cost: 3.7202520800910985, 
+Time: 0.6663765907287598 seconds
+Dynamic Programming: 
+Cost: 3.681074496192315, 
+Time: 0.7486612796783447 seconds
+Nearest Neighbor: Best Path: [0, 8, 2, 6, 10, 1, 7, 13, 4, 9, 3, 11, 14, 5, 12, 0], 
+Cost: 4.440599088300765, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 12, 5, 14, 0, 8, 9, 4, 3, 11, 13, 1, 7, 10, 6], 
+Cost: 3.748927356116838, 
+Time: 0.031429290771484375 seconds
+Ant Colony: Best Path: [0, 8, 2, 6, 10, 1, 7, 12, 5, 14, 9, 4, 13, 11, 3, 0], 
+Cost: 4.134554921517124, 
+Time: 0.6415834426879883 seconds
+Genetic Algorithm: Best Path: [13, 10, 6, 1, 7, 12, 5, 14, 2, 8, 0, 11, 3, 9, 4], 
+Cost: 3.796598418969644, 
+Time: 0.6645817756652832 seconds
+Dynamic Programming: 
+Cost: 3.476631635825381, 
+Time: 0.8030557632446289 seconds
+Nearest Neighbor: Best Path: [0, 6, 4, 9, 10, 5, 11, 8, 12, 7, 3, 2, 14, 13, 1, 0], 
+Cost: 4.014336309937328, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [14, 2, 0, 6, 4, 10, 9, 3, 5, 11, 8, 7, 12, 13, 1], 
+Cost: 3.476631635825381, 
+Time: 0.030797243118286133 seconds
+Ant Colony: Best Path: [0, 6, 2, 14, 13, 1, 7, 12, 8, 11, 5, 3, 9, 10, 4, 0], 
+Cost: 3.5562598651566164, 
+Time: 0.6322104930877686 seconds
+Genetic Algorithm: Best Path: [5, 3, 9, 10, 4, 6, 0, 2, 14, 1, 13, 12, 7, 8, 11], 
+Cost: 3.4766316358253806, 
+Time: 0.6714718341827393 seconds
+Dynamic Programming: 
+Cost: 3.9685763322457954, 
+Time: 0.7665975093841553 seconds
+Nearest Neighbor: Best Path: [0, 11, 9, 4, 2, 3, 1, 13, 10, 7, 12, 5, 6, 14, 8, 0], 
+Cost: 4.696759238831782, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [11, 0, 4, 2, 1, 3, 13, 10, 7, 6, 5, 12, 14, 8, 9], 
+Cost: 4.087821736673142, 
+Time: 0.036229848861694336 seconds
+Ant Colony: Best Path: [0, 11, 9, 4, 2, 1, 3, 13, 8, 14, 12, 5, 6, 7, 10, 0], 
+Cost: 4.221982663778173, 
+Time: 0.6264443397521973 seconds
+Genetic Algorithm: Best Path: [6, 7, 10, 3, 1, 2, 4, 0, 11, 9, 13, 8, 14, 12, 5], 
+Cost: 3.968576332245795, 
+Time: 0.6674680709838867 seconds
+Dynamic Programming: 
+Cost: 3.6898313445687063, 
+Time: 0.7717189788818359 seconds
+Nearest Neighbor: Best Path: [0, 10, 1, 11, 9, 14, 8, 12, 5, 6, 13, 3, 7, 4, 2, 0], 
+Cost: 3.8611513133063093, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 4, 2, 10, 1, 11, 9, 14, 8, 0, 12, 5, 6, 13, 7], 
+Cost: 3.881840144504237, 
+Time: 0.05140566825866699 seconds
+Ant Colony: Best Path: [0, 10, 1, 11, 9, 14, 8, 12, 5, 6, 13, 3, 7, 4, 2, 0], 
+Cost: 3.8611513133063093, 
+Time: 0.6509885787963867 seconds
+Genetic Algorithm: Best Path: [7, 3, 4, 2, 10, 1, 0, 11, 9, 14, 8, 12, 5, 6, 13], 
+Cost: 3.689831344568706, 
+Time: 0.7448368072509766 seconds
+Dynamic Programming: 
+Cost: 3.837942878320062, 
+Time: 0.809293270111084 seconds
+Nearest Neighbor: Best Path: [0, 11, 2, 3, 13, 10, 9, 4, 5, 7, 12, 1, 8, 6, 14, 0], 
+Cost: 4.1119464691676155, 
+Time: 0.0009932518005371094 seconds
+Simulated Annealing: Best Path: [14, 10, 13, 3, 9, 4, 5, 7, 12, 1, 6, 8, 2, 11, 0], 
+Cost: 3.8379428783200633, 
+Time: 0.040103912353515625 seconds
+Ant Colony: Best Path: [0, 14, 3, 13, 10, 9, 4, 5, 7, 12, 1, 6, 8, 2, 11, 0], 
+Cost: 3.9075113342602505, 
+Time: 0.7625992298126221 seconds
+Genetic Algorithm: Best Path: [14, 0, 11, 2, 8, 6, 1, 12, 7, 5, 4, 9, 3, 13, 10], 
+Cost: 3.837942878320062, 
+Time: 0.8634395599365234 seconds
+Dynamic Programming: 
+Cost: 3.607308501677811, 
+Time: 0.8872437477111816 seconds
+Nearest Neighbor: Best Path: [0, 6, 14, 11, 13, 5, 12, 1, 8, 9, 7, 10, 3, 4, 2, 0], 
+Cost: 3.851122439739858, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [8, 1, 12, 14, 2, 4, 10, 3, 7, 9, 0, 6, 13, 5, 11], 
+Cost: 4.453937324416989, 
+Time: 0.0409696102142334 seconds
+Ant Colony: Best Path: [0, 6, 13, 5, 11, 12, 1, 8, 9, 3, 10, 7, 4, 2, 14, 0], 
+Cost: 3.6466822981221925, 
+Time: 0.7020659446716309 seconds
+Genetic Algorithm: Best Path: [12, 1, 8, 9, 3, 10, 7, 4, 2, 6, 0, 14, 13, 5, 11], 
+Cost: 3.6073085016778106, 
+Time: 0.7782800197601318 seconds
+Dynamic Programming: 
+Cost: 3.0333282228628757, 
+Time: 0.8422651290893555 seconds
+Nearest Neighbor: Best Path: [0, 7, 12, 13, 4, 8, 1, 5, 11, 2, 3, 10, 14, 6, 9, 0], 
+Cost: 3.485959598216761, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 13, 2, 11, 5, 1, 8, 3, 14, 10, 6, 9, 7, 0, 12], 
+Cost: 3.12714180959254, 
+Time: 0.04607725143432617 seconds
+Ant Colony: Best Path: [0, 12, 13, 4, 8, 1, 5, 11, 2, 3, 14, 10, 6, 9, 7, 0], 
+Cost: 3.1970749137007077, 
+Time: 0.6907572746276855 seconds
+Genetic Algorithm: Best Path: [6, 9, 7, 0, 12, 4, 13, 8, 2, 11, 5, 1, 3, 14, 10], 
+Cost: 3.0333282228628757, 
+Time: 0.7418081760406494 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 17
+Dynamic Programming: 
+Cost: 3.685500349960128, 
+Time: 4.5605080127716064 seconds
+Nearest Neighbor: Best Path: [0, 10, 12, 15, 9, 16, 4, 14, 5, 8, 11, 2, 1, 7, 13, 3, 6, 0], 
+Cost: 4.501664997088858, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [10, 0, 9, 16, 6, 2, 11, 8, 1, 7, 3, 13, 5, 14, 4, 15, 12], 
+Cost: 4.09321435106187, 
+Time: 0.044992685317993164 seconds
+Ant Colony: Best Path: [0, 10, 12, 15, 9, 16, 6, 2, 11, 8, 5, 14, 4, 7, 1, 13, 3, 0], 
+Cost: 3.8900756658070703, 
+Time: 0.8145227432250977 seconds
+Genetic Algorithm: Best Path: [16, 6, 4, 14, 5, 8, 2, 11, 1, 7, 3, 13, 12, 10, 0, 9, 15], 
+Cost: 3.688333142459446, 
+Time: 0.8230247497558594 seconds
+Dynamic Programming: 
+Cost: 3.5448780325459834, 
+Time: 4.605081796646118 seconds
+Nearest Neighbor: Best Path: [0, 2, 3, 15, 12, 14, 13, 8, 1, 10, 16, 4, 9, 7, 11, 6, 5, 0], 
+Cost: 4.231280830895189, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [16, 4, 9, 7, 11, 6, 0, 2, 15, 12, 14, 8, 13, 3, 5, 1, 10], 
+Cost: 3.745482035871006, 
+Time: 0.03869056701660156 seconds
+Ant Colony: Best Path: [0, 2, 3, 15, 12, 14, 8, 13, 5, 1, 10, 16, 4, 9, 7, 11, 6, 0], 
+Cost: 3.5448780325459834, 
+Time: 0.8075289726257324 seconds
+Genetic Algorithm: Best Path: [2, 0, 6, 11, 7, 9, 4, 16, 10, 1, 5, 13, 8, 14, 12, 15, 3], 
+Cost: 3.5448780325459834, 
+Time: 0.8285088539123535 seconds
+Dynamic Programming: 
+Cost: 4.361763658960969, 
+Time: 4.657490968704224 seconds
+Nearest Neighbor: Best Path: [0, 12, 5, 11, 3, 1, 13, 7, 9, 10, 4, 8, 14, 2, 15, 6, 16, 0], 
+Cost: 5.069891934747546, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [16, 1, 4, 14, 8, 15, 2, 7, 11, 5, 3, 12, 0, 10, 9, 13, 6], 
+Cost: 5.501745653749661, 
+Time: 0.03186178207397461 seconds
+Ant Colony: Best Path: [0, 12, 3, 5, 11, 1, 13, 7, 16, 6, 2, 15, 9, 10, 4, 8, 14, 0], 
+Cost: 4.4759019308606245, 
+Time: 0.7733011245727539 seconds
+Genetic Algorithm: Best Path: [8, 15, 2, 6, 16, 1, 13, 7, 11, 5, 3, 12, 0, 9, 10, 4, 14], 
+Cost: 4.36944554804443, 
+Time: 0.8286540508270264 seconds
+Dynamic Programming: 
+Cost: 3.398541373641794, 
+Time: 4.283029556274414 seconds
+Nearest Neighbor: Best Path: [0, 5, 1, 12, 15, 4, 14, 6, 16, 3, 9, 2, 11, 7, 10, 13, 8, 0], 
+Cost: 3.554496369317683, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [16, 6, 14, 4, 15, 12, 1, 0, 5, 13, 8, 10, 7, 11, 2, 9, 3], 
+Cost: 3.3985413736417938, 
+Time: 0.03481435775756836 seconds
+Ant Colony: Best Path: [0, 5, 1, 12, 15, 4, 14, 6, 16, 3, 9, 2, 11, 7, 10, 13, 8, 0], 
+Cost: 3.554496369317683, 
+Time: 0.7395572662353516 seconds
+Genetic Algorithm: Best Path: [12, 15, 4, 14, 6, 16, 3, 9, 2, 11, 7, 10, 8, 13, 5, 0, 1], 
+Cost: 3.3985413736417938, 
+Time: 0.790935754776001 seconds
+Dynamic Programming: 
+Cost: 3.565563301970589, 
+Time: 4.249468803405762 seconds
+Nearest Neighbor: Best Path: [0, 4, 11, 2, 12, 14, 9, 10, 16, 5, 6, 8, 15, 3, 7, 13, 1, 0], 
+Cost: 3.9833262061118537, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 13, 1, 3, 15, 8, 11, 2, 12, 14, 9, 10, 16, 5, 6, 0, 4], 
+Cost: 4.026969053519048, 
+Time: 0.03749895095825195 seconds
+Ant Colony: Best Path: [0, 4, 5, 6, 8, 15, 3, 7, 1, 13, 11, 2, 12, 14, 9, 10, 16, 0], 
+Cost: 3.565563301970589, 
+Time: 0.7333896160125732 seconds
+Genetic Algorithm: Best Path: [9, 14, 12, 13, 1, 7, 3, 15, 8, 6, 5, 16, 0, 4, 11, 2, 10], 
+Cost: 3.637483106891403, 
+Time: 0.7673971652984619 seconds
+Dynamic Programming: 
+Cost: 3.8423214840840467, 
+Time: 4.401934862136841 seconds
+Nearest Neighbor: Best Path: [0, 15, 11, 7, 6, 12, 2, 5, 10, 8, 4, 1, 14, 16, 9, 3, 13, 0], 
+Cost: 4.424278462167741, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [2, 12, 6, 7, 11, 0, 15, 13, 3, 9, 16, 14, 1, 4, 8, 10, 5], 
+Cost: 4.259730189426371, 
+Time: 0.04535031318664551 seconds
+Ant Colony: Best Path: [0, 11, 7, 15, 3, 13, 12, 6, 5, 10, 8, 2, 4, 1, 14, 16, 9, 0], 
+Cost: 4.241229531297485, 
+Time: 0.9001777172088623 seconds
+Genetic Algorithm: Best Path: [1, 14, 16, 9, 0, 11, 7, 15, 13, 3, 6, 12, 2, 5, 10, 8, 4], 
+Cost: 3.8423214840840463, 
+Time: 0.8778197765350342 seconds
+Dynamic Programming: 
+Cost: 3.668576648870187, 
+Time: 4.429485321044922 seconds
+Nearest Neighbor: Best Path: [0, 9, 3, 14, 1, 11, 7, 2, 13, 12, 5, 10, 15, 16, 8, 6, 4, 0], 
+Cost: 3.7799439780960764, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 9, 3, 14, 1, 11, 7, 4, 8, 6, 16, 15, 10, 5, 13, 12, 2], 
+Cost: 4.248586474829678, 
+Time: 0.042040109634399414 seconds
+Ant Colony: Best Path: [0, 9, 3, 14, 4, 8, 6, 16, 15, 10, 5, 13, 12, 2, 7, 11, 1, 0], 
+Cost: 3.6741163237403294, 
+Time: 0.723987340927124 seconds
+Genetic Algorithm: Best Path: [8, 6, 4, 14, 3, 9, 0, 1, 11, 7, 2, 12, 13, 5, 15, 16, 10], 
+Cost: 3.6685766488701868, 
+Time: 0.760350227355957 seconds
+Dynamic Programming: 
+Cost: 3.7050203708730836, 
+Time: 4.282783031463623 seconds
+Nearest Neighbor: Best Path: [0, 2, 9, 16, 10, 14, 3, 13, 1, 11, 4, 5, 15, 6, 12, 7, 8, 0], 
+Cost: 4.4420597381799505, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [5, 15, 6, 12, 7, 0, 1, 13, 3, 8, 14, 10, 16, 9, 2, 11, 4], 
+Cost: 4.025893851962071, 
+Time: 0.03716444969177246 seconds
+Ant Colony: Best Path: [0, 2, 9, 16, 10, 14, 8, 3, 13, 1, 11, 4, 5, 15, 6, 12, 7, 0], 
+Cost: 3.7050203708730836, 
+Time: 0.7591104507446289 seconds
+Genetic Algorithm: Best Path: [15, 6, 12, 7, 0, 2, 9, 16, 10, 14, 8, 3, 13, 1, 11, 4, 5], 
+Cost: 3.705020370873083, 
+Time: 0.766420841217041 seconds
+Dynamic Programming: 
+Cost: 4.128485380005453, 
+Time: 4.6646363735198975 seconds
+Nearest Neighbor: Best Path: [0, 14, 8, 7, 6, 1, 4, 10, 12, 11, 16, 9, 15, 13, 5, 3, 2, 0], 
+Cost: 5.065437323089536, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 5, 13, 15, 9, 16, 11, 2, 10, 4, 12, 0, 14, 8, 1, 6, 7], 
+Cost: 4.176619617112003, 
+Time: 0.04093360900878906 seconds
+Ant Colony: Best Path: [0, 14, 8, 1, 12, 11, 10, 4, 2, 16, 9, 15, 13, 5, 3, 7, 6, 0], 
+Cost: 4.506083959286181, 
+Time: 0.8572406768798828 seconds
+Genetic Algorithm: Best Path: [14, 0, 12, 4, 10, 2, 11, 16, 9, 15, 13, 5, 3, 7, 6, 1, 8], 
+Cost: 4.176619617112002, 
+Time: 0.766106367111206 seconds
+Dynamic Programming: 
+Cost: 3.7964514215742136, 
+Time: 4.244852066040039 seconds
+Nearest Neighbor: Best Path: [0, 7, 4, 3, 12, 1, 11, 2, 6, 5, 14, 15, 16, 8, 13, 9, 10, 0], 
+Cost: 4.543220714271373, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [13, 9, 11, 1, 15, 12, 2, 6, 5, 14, 3, 4, 7, 0, 10, 16, 8], 
+Cost: 3.839423622978453, 
+Time: 0.03867006301879883 seconds
+Ant Colony: Best Path: [0, 7, 16, 8, 13, 9, 11, 1, 12, 2, 6, 5, 14, 3, 4, 15, 10, 0], 
+Cost: 4.298132697347355, 
+Time: 0.711555004119873 seconds
+Genetic Algorithm: Best Path: [8, 13, 9, 11, 1, 12, 2, 6, 5, 14, 3, 4, 7, 0, 10, 15, 16], 
+Cost: 3.796451421574213, 
+Time: 0.7638001441955566 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 19
+Dynamic Programming: 
+Cost: 3.675920634497076, 
+Time: 22.83782434463501 seconds
+Nearest Neighbor: Best Path: [0, 11, 16, 1, 14, 12, 5, 9, 17, 4, 2, 18, 13, 6, 15, 3, 10, 7, 8, 0], 
+Cost: 4.069264446641677, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [16, 11, 0, 18, 9, 17, 2, 13, 6, 15, 10, 3, 7, 8, 4, 12, 5, 14, 1], 
+Cost: 4.469025722301177, 
+Time: 0.03303384780883789 seconds
+Ant Colony: Best Path: [0, 11, 16, 1, 14, 12, 5, 9, 17, 8, 7, 3, 10, 15, 6, 13, 18, 2, 4, 0], 
+Cost: 3.9189894344809524, 
+Time: 0.8383200168609619 seconds
+Genetic Algorithm: Best Path: [18, 13, 6, 15, 3, 10, 7, 8, 4, 2, 17, 9, 5, 12, 14, 1, 16, 11, 0], 
+Cost: 3.675920634497076, 
+Time: 0.7912518978118896 seconds
+Dynamic Programming: 
+Cost: 3.773966877493226, 
+Time: 22.346970081329346 seconds
+Nearest Neighbor: Best Path: [0, 13, 6, 12, 7, 9, 16, 1, 10, 8, 11, 4, 14, 15, 5, 3, 17, 18, 2, 0], 
+Cost: 4.042052922929981, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 16, 2, 18, 17, 0, 5, 3, 12, 6, 13, 15, 14, 11, 8, 4, 10, 1, 9], 
+Cost: 4.659581401594227, 
+Time: 0.0383305549621582 seconds
+Ant Colony: Best Path: [0, 3, 5, 15, 14, 11, 8, 4, 10, 16, 1, 9, 7, 12, 6, 13, 17, 18, 2, 0], 
+Cost: 3.7953028236494255, 
+Time: 0.8164303302764893 seconds
+Genetic Algorithm: Best Path: [12, 3, 5, 15, 14, 10, 8, 11, 4, 2, 18, 17, 0, 13, 6, 16, 1, 9, 7], 
+Cost: 4.132255469011412, 
+Time: 0.8324642181396484 seconds
+Dynamic Programming: 
+Cost: 3.7723947526094346, 
+Time: 25.63602042198181 seconds
+Nearest Neighbor: Best Path: [0, 18, 2, 8, 5, 15, 1, 3, 7, 12, 9, 16, 13, 11, 4, 14, 10, 17, 6, 0], 
+Cost: 4.8442895397360335, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [10, 14, 4, 11, 13, 6, 16, 5, 15, 9, 7, 3, 1, 12, 2, 8, 0, 18, 17], 
+Cost: 4.121078934353612, 
+Time: 0.03853726387023926 seconds
+Ant Colony: Best Path: [0, 18, 2, 8, 5, 15, 1, 3, 7, 12, 16, 9, 6, 13, 11, 4, 14, 10, 17, 0], 
+Cost: 4.119225966990045, 
+Time: 0.845984697341919 seconds
+Genetic Algorithm: Best Path: [17, 10, 14, 4, 11, 13, 6, 16, 9, 15, 5, 8, 1, 3, 7, 12, 2, 0, 18], 
+Cost: 3.805317475401256, 
+Time: 0.8560106754302979 seconds
+Dynamic Programming: 
+Cost: 3.6775734172676184, 
+Time: 24.924592971801758 seconds
+Nearest Neighbor: Best Path: [0, 9, 14, 16, 7, 18, 17, 10, 2, 11, 4, 5, 1, 12, 3, 8, 15, 6, 13, 0], 
+Cost: 4.741365306824601, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [4, 1, 11, 2, 13, 6, 15, 10, 17, 16, 7, 18, 8, 3, 0, 9, 14, 12, 5], 
+Cost: 3.7099693257641198, 
+Time: 0.05279827117919922 seconds
+Ant Colony: Best Path: [0, 9, 14, 16, 18, 7, 3, 8, 17, 10, 15, 6, 13, 2, 4, 5, 11, 1, 12, 0], 
+Cost: 4.0193207974291205, 
+Time: 0.7959368228912354 seconds
+Genetic Algorithm: Best Path: [1, 11, 4, 5, 9, 14, 7, 18, 16, 17, 10, 2, 13, 6, 15, 8, 3, 0, 12], 
+Cost: 3.9323892483476905, 
+Time: 0.8653371334075928 seconds
+Dynamic Programming: 
+Cost: 3.844630545907311, 
+Time: 22.5754816532135 seconds
+Nearest Neighbor: Best Path: [0, 12, 18, 15, 6, 10, 13, 11, 1, 8, 2, 17, 7, 14, 5, 3, 4, 9, 16, 0], 
+Cost: 4.276403836667834, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [7, 18, 15, 5, 0, 12, 17, 2, 8, 1, 10, 11, 13, 6, 9, 16, 4, 3, 14], 
+Cost: 4.751794721153716, 
+Time: 0.03944754600524902 seconds
+Ant Colony: Best Path: [0, 12, 18, 15, 6, 10, 13, 11, 1, 8, 2, 17, 9, 16, 4, 3, 5, 14, 7, 0], 
+Cost: 4.370621204775617, 
+Time: 0.8087515830993652 seconds
+Genetic Algorithm: Best Path: [6, 10, 13, 11, 1, 8, 2, 17, 15, 18, 12, 7, 14, 0, 5, 3, 16, 9, 4], 
+Cost: 3.955876102919391, 
+Time: 0.8644506931304932 seconds
+Dynamic Programming: 
+Cost: 3.5938487860676, 
+Time: 25.47765302658081 seconds
+Nearest Neighbor: Best Path: [0, 12, 17, 2, 9, 16, 8, 4, 10, 14, 18, 7, 13, 5, 15, 11, 6, 1, 3, 0], 
+Cost: 4.705051717939605, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 11, 15, 18, 14, 8, 16, 9, 10, 5, 13, 7, 4, 3, 1, 2, 17, 12, 6], 
+Cost: 4.205753265018428, 
+Time: 0.03414559364318848 seconds
+Ant Colony: Best Path: [0, 17, 2, 9, 16, 8, 14, 18, 7, 13, 5, 10, 4, 1, 3, 15, 11, 12, 6, 0], 
+Cost: 4.103831671592732, 
+Time: 0.8843514919281006 seconds
+Genetic Algorithm: Best Path: [11, 0, 6, 12, 17, 2, 1, 3, 4, 9, 16, 8, 10, 14, 18, 5, 13, 7, 15], 
+Cost: 3.5938487860675994, 
+Time: 0.9039204120635986 seconds
+Dynamic Programming: 
+Cost: 3.624877302082674, 
+Time: 21.932823181152344 seconds
+Nearest Neighbor: Best Path: [0, 13, 5, 18, 17, 15, 6, 11, 2, 4, 12, 7, 8, 9, 14, 1, 10, 3, 16, 0], 
+Cost: 4.17433155870279, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [11, 6, 15, 17, 2, 4, 7, 18, 0, 13, 5, 12, 8, 9, 14, 1, 10, 3, 16], 
+Cost: 4.205985459932109, 
+Time: 0.03497791290283203 seconds
+Ant Colony: Best Path: [0, 5, 18, 17, 15, 6, 11, 2, 4, 12, 7, 8, 9, 14, 1, 10, 3, 16, 13, 0], 
+Cost: 4.141446124538638, 
+Time: 0.8067831993103027 seconds
+Genetic Algorithm: Best Path: [11, 6, 15, 17, 18, 0, 13, 5, 7, 12, 4, 2, 8, 9, 14, 1, 10, 3, 16], 
+Cost: 3.6248773020826732, 
+Time: 0.8470227718353271 seconds
+Dynamic Programming: 
+Cost: 4.081204294711069, 
+Time: 21.43781542778015 seconds
+Nearest Neighbor: Best Path: [0, 2, 18, 15, 12, 5, 4, 9, 16, 17, 7, 14, 8, 1, 11, 3, 10, 13, 6, 0], 
+Cost: 4.398645615045909, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [17, 7, 16, 9, 4, 18, 15, 5, 12, 6, 13, 10, 3, 1, 11, 2, 0, 8, 14], 
+Cost: 4.356072659546226, 
+Time: 0.03846025466918945 seconds
+Ant Colony: Best Path: [0, 2, 18, 15, 12, 5, 4, 9, 16, 7, 17, 14, 8, 11, 1, 3, 10, 13, 6, 0], 
+Cost: 4.17342432242715, 
+Time: 0.7881383895874023 seconds
+Genetic Algorithm: Best Path: [13, 6, 12, 5, 15, 18, 14, 17, 7, 16, 9, 4, 2, 0, 8, 11, 1, 3, 10], 
+Cost: 4.24370737041414, 
+Time: 0.8061411380767822 seconds
+Dynamic Programming: 
+Cost: 3.6752995713549232, 
+Time: 21.28894805908203 seconds
+Nearest Neighbor: Best Path: [0, 16, 1, 14, 11, 4, 9, 2, 3, 5, 13, 12, 10, 18, 17, 15, 6, 8, 7, 0], 
+Cost: 3.8350729556916265, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [9, 4, 10, 18, 11, 14, 1, 16, 0, 7, 8, 6, 15, 17, 12, 13, 5, 3, 2], 
+Cost: 4.02683886014119, 
+Time: 0.04539155960083008 seconds
+Ant Colony: Best Path: [0, 16, 1, 14, 11, 4, 9, 3, 2, 5, 13, 12, 10, 18, 17, 15, 6, 8, 7, 0], 
+Cost: 3.857416722874083, 
+Time: 0.777681827545166 seconds
+Genetic Algorithm: Best Path: [9, 4, 10, 18, 17, 12, 13, 15, 5, 2, 3, 6, 8, 7, 0, 16, 1, 14, 11], 
+Cost: 3.762608059527704, 
+Time: 0.7944345474243164 seconds
+Dynamic Programming: 
+Cost: 3.5695764418803884, 
+Time: 21.285486698150635 seconds
+Nearest Neighbor: Best Path: [0, 7, 16, 10, 14, 3, 6, 5, 4, 12, 11, 8, 15, 9, 17, 2, 13, 18, 1, 0], 
+Cost: 4.635814988841321, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [0, 4, 11, 15, 13, 9, 17, 2, 8, 1, 18, 12, 5, 14, 3, 6, 10, 16, 7], 
+Cost: 4.237817721855301, 
+Time: 0.03767251968383789 seconds
+Ant Colony: Best Path: [0, 7, 16, 10, 6, 3, 14, 5, 4, 12, 11, 18, 1, 8, 15, 9, 17, 2, 13, 0], 
+Cost: 3.6331860966623224, 
+Time: 0.7698652744293213 seconds
+Genetic Algorithm: Best Path: [12, 4, 5, 14, 3, 6, 10, 16, 7, 0, 13, 9, 17, 2, 15, 8, 1, 18, 11], 
+Cost: 3.569576441880388, 
+Time: 0.7914836406707764 seconds
+
+---------------------------------------------------
+
+---------------------------------------------------
+Run 21
+Dynamic Programming: 
+Cost: 3.3655436088905555, 
+Time: 114.60178875923157 seconds
+Nearest Neighbor: Best Path: [0, 18, 17, 9, 4, 19, 15, 2, 1, 7, 11, 8, 3, 14, 12, 16, 20, 13, 10, 6, 5, 0], 
+Cost: 4.519862388845237, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [3, 8, 1, 11, 7, 19, 15, 2, 4, 9, 17, 18, 0, 6, 10, 13, 20, 16, 12, 14, 5], 
+Cost: 3.3655436088905564, 
+Time: 0.04553389549255371 seconds
+Ant Colony: Best Path: [0, 18, 17, 9, 4, 19, 15, 2, 7, 1, 11, 8, 3, 5, 14, 12, 16, 20, 13, 10, 6, 0], 
+Cost: 3.430852292622116, 
+Time: 0.8942475318908691 seconds
+Genetic Algorithm: Best Path: [18, 0, 6, 10, 13, 20, 16, 12, 14, 5, 3, 8, 1, 11, 7, 19, 15, 2, 4, 9, 17], 
+Cost: 3.3655436088905555, 
+Time: 0.8694853782653809 seconds
+Dynamic Programming: 
+Cost: 4.067055018241848, 
+Time: 115.4510989189148 seconds
+Nearest Neighbor: Best Path: [0, 18, 10, 8, 7, 12, 5, 17, 4, 2, 3, 19, 1, 16, 20, 15, 11, 14, 13, 6, 9, 0], 
+Cost: 5.1259536122340785, 
+Time: 0.0 seconds
+Simulated Annealing: Best Path: [6, 13, 14, 11, 15, 9, 1, 17, 5, 12, 7, 0, 18, 10, 8, 19, 3, 2, 4, 16, 20], 
+Cost: 4.3421774603900465, 
+Time: 0.04823637008666992 seconds
+Ant Colony: Best Path: [0, 18, 10, 8, 7, 12, 5, 20, 16, 1, 17, 4, 2, 19, 3, 9, 15, 11, 14, 13, 6, 0], 
+Cost: 4.5214272151907275, 
+Time: 0.8786303997039795 seconds
+Genetic Algorithm: Best Path: [20, 7, 0, 18, 10, 8, 12, 5, 19, 3, 2, 4, 17, 1, 9, 16, 15, 11, 14, 13, 6], 
+Cost: 4.117929489597317, 
+Time: 0.9705917835235596 seconds
+
+
+Run 2
+Brute Force, 0.22510364855530882, 0.0 
+Dynamic Programming, 0.22510364855530882, 0.0 
+Nearest Neighbor, 0.22510364855530882, 0.0 
+Simulated Annealing, 0.22510364855530882, 0.02526116371154785 
+Ant Colony, 0.22510364855530882, 0.056299448013305664 
+Genetic Algorithm, 0.22510364855530882, 0.28583836555480957 
+Brute Force, 0.8787486351822262, 0.0 
+Dynamic Programming, 0.8787486351822262, 0.0 
+Nearest Neighbor, 0.8787486351822262, 0.0 
+Simulated Annealing, 0.8787486351822262, 0.020005226135253906 
+Ant Colony, 0.8787486351822262, 0.05779457092285156 
+Genetic Algorithm, 0.8787486351822262, 0.30516958236694336 
+Brute Force, 1.0330303743737688, 0.0 
+Dynamic Programming, 1.0330303743737688, 0.0 
+Nearest Neighbor, 1.0330303743737688, 0.0 
+Simulated Annealing, 1.0330303743737688, 0.01867842674255371 
+Ant Colony, 1.0330303743737688, 0.0570216178894043 
+Genetic Algorithm, 1.0330303743737688, 0.2909722328186035 
+Brute Force, 0.4034612529405534, 0.0 
+Dynamic Programming, 0.4034612529405534, 0.0 
+Nearest Neighbor, 0.4034612529405534, 0.0 
+Simulated Annealing, 0.4034612529405534, 0.016736984252929688 
+Ant Colony, 0.4034612529405534, 0.0523838996887207 
+Genetic Algorithm, 0.4034612529405534, 0.2906005382537842 
+Brute Force, 0.2940698778903048, 0.0 
+Dynamic Programming, 0.2940698778903048, 0.0 
+Nearest Neighbor, 0.2940698778903048, 0.0 
+Simulated Annealing, 0.2940698778903048, 0.025748729705810547 
+Ant Colony, 0.2940698778903048, 0.05029296875 
+Genetic Algorithm, 0.2940698778903048, 0.2788236141204834 
+Brute Force, 0.5803764613926088, 0.0 
+Dynamic Programming, 0.5803764613926088, 0.0 
+Nearest Neighbor, 0.5803764613926088, 0.0 
+Simulated Annealing, 0.5803764613926088, 0.017731428146362305 
+Ant Colony, 0.5803764613926088, 0.05145096778869629 
+Genetic Algorithm, 0.5803764613926088, 0.2887425422668457 
+Brute Force, 0.7719056261780387, 0.0 
+Dynamic Programming, 0.7719056261780387, 0.0 
+Nearest Neighbor, 0.7719056261780387, 0.0 
+Simulated Annealing, 0.7719056261780387, 0.022838592529296875 
+Ant Colony, 0.7719056261780387, 0.05421042442321777 
+Genetic Algorithm, 0.7719056261780387, 0.28566861152648926 
+Brute Force, 1.4814667793516816, 0.0 
+Dynamic Programming, 1.4814667793516816, 0.0 
+Nearest Neighbor, 1.4814667793516816, 0.0 
+Simulated Annealing, 1.4814667793516816, 0.029494524002075195 
+Ant Colony, 1.4814667793516816, 0.04935002326965332 
+Genetic Algorithm, 1.4814667793516816, 0.2762165069580078 
+Brute Force, 1.4371593996901109, 0.0 
+Dynamic Programming, 1.4371593996901109, 0.0 
+Nearest Neighbor, 1.4371593996901109, 0.0 
+Simulated Annealing, 1.4371593996901109, 0.02100515365600586 
+Ant Colony, 1.4371593996901109, 0.04969310760498047 
+Genetic Algorithm, 1.4371593996901109, 0.2915055751800537 
+Brute Force, 1.1191582314577442, 0.0 
+Dynamic Programming, 1.1191582314577442, 0.0 
+Nearest Neighbor, 1.1191582314577442, 0.0 
+Simulated Annealing, 1.1191582314577442, 0.019504547119140625 
+Ant Colony, 1.1191582314577442, 0.051941633224487305 
+Genetic Algorithm, 1.1191582314577442, 0.28830671310424805 
+Run 3
+Brute Force, 1.5544387722108355, 0.0 
+Dynamic Programming, 1.5544387722108355, 0.0 
+Nearest Neighbor, 1.5544387722108355, 0.0 
+Simulated Annealing, 1.5544387722108355, 0.01804828643798828 
+Ant Colony, 1.5544387722108355, 0.08776187896728516 
+Genetic Algorithm, 1.5544387722108355, 0.31865930557250977 
+Brute Force, 1.7293326466293972, 0.0 
+Dynamic Programming, 1.7293326466293972, 0.0 
+Nearest Neighbor, 1.7293326466293975, 0.0010504722595214844 
+Simulated Annealing, 1.7293326466293972, 0.018672466278076172 
+Ant Colony, 1.7293326466293972, 0.09699845314025879 
+Genetic Algorithm, 1.7293326466293972, 0.3189125061035156 
+Brute Force, 1.547098196007508, 0.0 
+Dynamic Programming, 1.547098196007508, 0.0 
+Nearest Neighbor, 1.547098196007508, 0.0 
+Simulated Annealing, 1.547098196007508, 0.019207000732421875 
+Ant Colony, 1.547098196007508, 0.09405755996704102 
+Genetic Algorithm, 1.547098196007508, 0.3076801300048828 
+Brute Force, 1.4243197802166394, 0.0 
+Dynamic Programming, 1.4243197802166394, 0.0 
+Nearest Neighbor, 1.4243197802166394, 0.0 
+Simulated Annealing, 1.4243197802166394, 0.02004718780517578 
+Ant Colony, 1.4243197802166394, 0.09382128715515137 
+Genetic Algorithm, 1.4243197802166394, 0.30004048347473145 
+Brute Force, 1.8011835265065248, 0.0 
+Dynamic Programming, 1.8011835265065248, 0.010010242462158203 
+Nearest Neighbor, 1.801183526506525, 0.0 
+Simulated Annealing, 1.8011835265065248, 0.018127918243408203 
+Ant Colony, 1.801183526506525, 0.09319901466369629 
+Genetic Algorithm, 1.8011835265065248, 0.31999802589416504 
+Brute Force, 0.8146154034731963, 0.0 
+Dynamic Programming, 0.8146154034731963, 0.0 
+Nearest Neighbor, 0.8146154034731963, 0.0 
+Simulated Annealing, 0.8146154034731963, 0.021123647689819336 
+Ant Colony, 0.8146154034731963, 0.10172772407531738 
+Genetic Algorithm, 0.8146154034731963, 0.3171384334564209 
+Brute Force, 1.867787941126795, 0.0 
+Dynamic Programming, 1.867787941126795, 0.0 
+Nearest Neighbor, 1.867787941126795, 0.0 
+Simulated Annealing, 1.867787941126795, 0.02025008201599121 
+Ant Colony, 1.867787941126795, 0.09311199188232422 
+Genetic Algorithm, 1.867787941126795, 0.31339383125305176 
+Brute Force, 2.2096126315409697, 0.0 
+Dynamic Programming, 2.2096126315409697, 0.0 
+Nearest Neighbor, 2.2096126315409697, 0.0 
+Simulated Annealing, 2.2096126315409697, 0.020886659622192383 
+Ant Colony, 2.2096126315409697, 0.09545493125915527 
+Genetic Algorithm, 2.2096126315409697, 0.3014814853668213 
+Brute Force, 0.8655526303197504, 0.0 
+Dynamic Programming, 0.8655526303197504, 0.0 
+Nearest Neighbor, 0.8655526303197504, 0.0 
+Simulated Annealing, 0.8655526303197504, 0.018233299255371094 
+Ant Colony, 0.8655526303197504, 0.09564638137817383 
+Genetic Algorithm, 0.8655526303197504, 0.3082418441772461 
+Brute Force, 2.036414477470153, 0.0 
+Dynamic Programming, 2.036414477470153, 0.0 
+Nearest Neighbor, 2.036414477470153, 0.008509397506713867 
+Simulated Annealing, 2.036414477470153, 0.018959522247314453 
+Ant Colony, 2.036414477470153, 0.09693431854248047 
+Genetic Algorithm, 2.036414477470153, 0.3170647621154785 
+Run 4
+Brute Force, 2.0356867132185474, 0.0 
+Dynamic Programming, 2.0356867132185474, 0.0 
+Nearest Neighbor, 2.2089618421978123, 0.0 
+Simulated Annealing, 2.0356867132185474, 0.02021336555480957 
+Ant Colony, 2.0356867132185474, 0.140852689743042 
+Genetic Algorithm, 2.0356867132185474, 0.35193395614624023 
+Brute Force, 1.685061309243292, 0.0 
+Dynamic Programming, 1.685061309243292, 0.0 
+Nearest Neighbor, 1.743752430573226, 0.0 
+Simulated Annealing, 1.685061309243292, 0.01871037483215332 
+Ant Colony, 1.685061309243292, 0.1351921558380127 
+Genetic Algorithm, 1.685061309243292, 0.397247314453125 
+Brute Force, 1.9958093390672382, 0.0 
+Dynamic Programming, 1.9958093390672385, 0.0 
+Nearest Neighbor, 1.9958093390672387, 0.0 
+Simulated Annealing, 1.9958093390672382, 0.02062392234802246 
+Ant Colony, 1.9958093390672387, 0.1315326690673828 
+Genetic Algorithm, 1.9958093390672382, 0.3539917469024658 
+Brute Force, 2.1425075220702587, 0.0 
+Dynamic Programming, 2.1425075220702587, 0.0 
+Nearest Neighbor, 2.1425075220702587, 0.0 
+Simulated Annealing, 2.1425075220702587, 0.01924729347229004 
+Ant Colony, 2.1425075220702587, 0.13077068328857422 
+Genetic Algorithm, 2.1425075220702587, 0.3541381359100342 
+Brute Force, 0.6859625988995843, 0.0 
+Dynamic Programming, 0.6859625988995844, 0.0 
+Nearest Neighbor, 0.7333898242132857, 0.0 
+Simulated Annealing, 0.6859625988995843, 0.023825883865356445 
+Ant Colony, 0.6859625988995844, 0.13607144355773926 
+Genetic Algorithm, 0.6859625988995843, 0.34288811683654785 
+Brute Force, 1.3040124694810102, 0.0 
+Dynamic Programming, 1.3040124694810102, 0.0 
+Nearest Neighbor, 1.3040124694810102, 0.0 
+Simulated Annealing, 1.3040124694810102, 0.020488739013671875 
+Ant Colony, 1.3040124694810102, 0.1369929313659668 
+Genetic Algorithm, 1.3040124694810102, 0.34199953079223633 
+Brute Force, 2.745300645101267, 0.0 
+Dynamic Programming, 2.745300645101267, 0.0 
+Nearest Neighbor, 2.745300645101267, 0.0 
+Simulated Annealing, 2.745300645101267, 0.01950216293334961 
+Ant Colony, 2.745300645101267, 0.13567352294921875 
+Genetic Algorithm, 2.745300645101267, 0.3475041389465332 
+Brute Force, 1.804676818299979, 0.0 
+Dynamic Programming, 1.8046768182999793, 0.0 
+Nearest Neighbor, 1.8046768182999793, 0.0 
+Simulated Annealing, 1.804676818299979, 0.018714189529418945 
+Ant Colony, 1.8046768182999793, 0.13812851905822754 
+Genetic Algorithm, 1.804676818299979, 0.3607642650604248 
+Brute Force, 2.4347691773845668, 0.0 
+Dynamic Programming, 2.4347691773845668, 0.0 
+Nearest Neighbor, 2.521259657003892, 0.0 
+Simulated Annealing, 2.4347691773845668, 0.018285512924194336 
+Ant Colony, 2.4347691773845668, 0.13758563995361328 
+Genetic Algorithm, 2.4347691773845668, 0.35200929641723633 
+Brute Force, 1.7212219246030953, 0.0 
+Dynamic Programming, 1.7212219246030953, 0.0 
+Nearest Neighbor, 1.7212219246030953, 0.0 
+Simulated Annealing, 1.7212219246030953, 0.021183013916015625 
+Ant Colony, 1.7212219246030953, 0.13908720016479492 
+Genetic Algorithm, 1.7212219246030953, 0.341400146484375 
+Run 5
+Brute Force, 2.4238105478103904, 0.0 
+Dynamic Programming, 2.423810547810391, 0.0 
+Nearest Neighbor, 2.423810547810391, 0.0 
+Simulated Annealing, 2.4238105478103904, 0.022136449813842773 
+Ant Colony, 2.423810547810391, 0.17607736587524414 
+Genetic Algorithm, 2.4238105478103904, 0.3811674118041992 
+Brute Force, 2.2774393718352566, 0.0 
+Dynamic Programming, 2.2774393718352566, 0.0 
+Nearest Neighbor, 2.2774393718352566, 0.0 
+Simulated Annealing, 2.2774393718352566, 0.020567893981933594 
+Ant Colony, 2.2774393718352566, 0.17962312698364258 
+Genetic Algorithm, 2.2774393718352566, 0.36037158966064453 
+Brute Force, 1.54574829058551, 0.0 
+Dynamic Programming, 1.54574829058551, 0.0 
+Nearest Neighbor, 1.54574829058551, 0.0 
+Simulated Annealing, 1.54574829058551, 0.019272565841674805 
+Ant Colony, 1.54574829058551, 0.17870783805847168 
+Genetic Algorithm, 1.54574829058551, 0.3822493553161621 
+Brute Force, 1.7401052818126639, 0.008007526397705078 
+Dynamic Programming, 1.7401052818126639, 0.0 
+Nearest Neighbor, 1.7413142291976562, 0.0 
+Simulated Annealing, 1.7401052818126639, 0.02463078498840332 
+Ant Colony, 1.7401052818126639, 0.17941927909851074 
+Genetic Algorithm, 1.7401052818126639, 0.372114896774292 
+Brute Force, 2.37205358247171, 0.0 
+Dynamic Programming, 2.37205358247171, 0.0 
+Nearest Neighbor, 2.37205358247171, 0.0 
+Simulated Annealing, 2.37205358247171, 0.021487712860107422 
+Ant Colony, 2.37205358247171, 0.1831824779510498 
+Genetic Algorithm, 2.37205358247171, 0.3721201419830322 
+Brute Force, 2.137233660208796, 0.0 
+Dynamic Programming, 2.1372336602087962, 0.0 
+Nearest Neighbor, 2.182040211035736, 0.009957075119018555 
+Simulated Annealing, 2.137233660208796, 0.02111506462097168 
+Ant Colony, 2.1372336602087962, 0.17127299308776855 
+Genetic Algorithm, 2.137233660208796, 0.38698458671569824 
+Brute Force, 2.4700733080468193, 0.0 
+Dynamic Programming, 2.4700733080468193, 0.0 
+Nearest Neighbor, 2.706905331698139, 0.0 
+Simulated Annealing, 2.4700733080468193, 0.025401830673217773 
+Ant Colony, 2.4700733080468193, 0.17439842224121094 
+Genetic Algorithm, 2.4700733080468193, 0.38043880462646484 
+Brute Force, 2.602994373632243, 0.0 
+Dynamic Programming, 2.602994373632243, 0.0 
+Nearest Neighbor, 2.6378439433760392, 0.0 
+Simulated Annealing, 2.602994373632243, 0.018350839614868164 
+Ant Colony, 2.602994373632243, 0.17772555351257324 
+Genetic Algorithm, 2.602994373632243, 0.3737061023712158 
+Brute Force, 2.64547495809987, 0.0 
+Dynamic Programming, 2.6454749580998707, 0.0 
+Nearest Neighbor, 2.6454749580998707, 0.0 
+Simulated Annealing, 2.64547495809987, 0.0232086181640625 
+Ant Colony, 2.6454749580998707, 0.17759084701538086 
+Genetic Algorithm, 2.64547495809987, 0.3784291744232178 
+Brute Force, 2.4262638859761547, 0.0 
+Dynamic Programming, 2.4262638859761547, 0.0 
+Nearest Neighbor, 2.426263885976155, 0.0 
+Simulated Annealing, 2.4262638859761547, 0.022216320037841797 
+Ant Colony, 2.426263885976155, 0.1769731044769287 
+Genetic Algorithm, 2.4262638859761547, 0.3686647415161133 
+Run 6
+Brute Force, 2.3025445689296156, 0.0017077922821044922 
+Dynamic Programming, 2.302544568929616, 0.0 
+Nearest Neighbor, 2.347284754762033, 0.0 
+Simulated Annealing, 2.3025445689296156, 0.025693893432617188 
+Ant Colony, 2.347284754762033, 0.22494792938232422 
+Genetic Algorithm, 2.3025445689296156, 0.41238951683044434 
+Brute Force, 2.676766822407033, 0.0023059844970703125 
+Dynamic Programming, 2.676766822407033, 0.0 
+Nearest Neighbor, 3.0479292576089874, 0.0 
+Simulated Annealing, 2.676766822407033, 0.021144628524780273 
+Ant Colony, 2.676766822407033, 0.22810792922973633 
+Genetic Algorithm, 2.676766822407033, 0.391742467880249 
+Brute Force, 2.301069604710477, 0.0013990402221679688 
+Dynamic Programming, 2.301069604710477, 0.0 
+Nearest Neighbor, 2.5498071739057884, 0.0 
+Simulated Annealing, 2.301069604710477, 0.024695634841918945 
+Ant Colony, 2.301069604710477, 0.2289888858795166 
+Genetic Algorithm, 2.301069604710477, 0.4108707904815674 
+Brute Force, 2.282917893143827, 0.005784749984741211 
+Dynamic Programming, 2.282917893143827, 0.0 
+Nearest Neighbor, 2.3512694840409543, 0.0 
+Simulated Annealing, 2.282917893143827, 0.020563125610351562 
+Ant Colony, 2.282917893143827, 0.21840500831604004 
+Genetic Algorithm, 2.282917893143827, 0.41805171966552734 
+Brute Force, 2.5508721891639303, 0.001752614974975586 
+Dynamic Programming, 2.5508721891639303, 0.0 
+Nearest Neighbor, 2.64122370320091, 0.0 
+Simulated Annealing, 2.5508721891639303, 0.027605533599853516 
+Ant Colony, 2.5508721891639308, 0.22639703750610352 
+Genetic Algorithm, 2.5508721891639303, 0.395763635635376 
+Brute Force, 1.724224989371633, 0.0 
+Dynamic Programming, 1.724224989371633, 0.0 
+Nearest Neighbor, 1.8729333833897384, 0.0 
+Simulated Annealing, 1.724224989371633, 0.02756667137145996 
+Ant Colony, 1.7747712529867707, 0.22195100784301758 
+Genetic Algorithm, 1.724224989371633, 0.41368937492370605 
+Brute Force, 2.3001395197813777, 0.0 
+Dynamic Programming, 2.3001395197813777, 0.0 
+Nearest Neighbor, 2.643258107428813, 0.0 
+Simulated Annealing, 2.3001395197813777, 0.018423795700073242 
+Ant Colony, 2.3001395197813777, 0.22781848907470703 
+Genetic Algorithm, 2.3001395197813777, 0.4505343437194824 
+Brute Force, 2.534186645705429, 0.0 
+Dynamic Programming, 2.534186645705429, 0.0 
+Nearest Neighbor, 2.685407087614776, 0.0 
+Simulated Annealing, 2.534186645705429, 0.023786067962646484 
+Ant Colony, 2.685407087614776, 0.23482823371887207 
+Genetic Algorithm, 2.534186645705429, 0.4004638195037842 
+Brute Force, 2.8252662630486602, 0.0034637451171875 
+Dynamic Programming, 2.8252662630486607, 0.0 
+Nearest Neighbor, 2.979995363963752, 0.0 
+Simulated Annealing, 2.8252662630486602, 0.019541263580322266 
+Ant Colony, 2.8871505720308717, 0.2367866039276123 
+Genetic Algorithm, 2.8252662630486602, 0.39798498153686523 
+Brute Force, 1.4272678824959837, 0.002473115921020508 
+Dynamic Programming, 1.427267882495984, 0.0 
+Nearest Neighbor, 1.4648133255729268, 0.0 
+Simulated Annealing, 1.4272678824959837, 0.026423215866088867 
+Ant Colony, 1.427267882495984, 0.22420120239257812 
+Genetic Algorithm, 1.4272678824959837, 0.4109928607940674 
+Run 7
+Brute Force, 1.934555277915242, 0.01381993293762207 
+Dynamic Programming, 1.9345552779152424, 0.0 
+Nearest Neighbor, 1.972145180099713, 0.0 
+Simulated Annealing, 1.934555277915242, 0.024605989456176758 
+Ant Colony, 1.9345552779152424, 0.2711362838745117 
+Genetic Algorithm, 1.934555277915242, 0.4458777904510498 
+Brute Force, 2.66391274402013, 0.02026820182800293 
+Dynamic Programming, 2.66391274402013, 0.0 
+Nearest Neighbor, 2.66391274402013, 0.0 
+Simulated Annealing, 2.66391274402013, 0.02287578582763672 
+Ant Colony, 2.66391274402013, 0.27011537551879883 
+Genetic Algorithm, 2.66391274402013, 0.41858386993408203 
+Brute Force, 3.3078389651333944, 0.010083436965942383 
+Dynamic Programming, 3.3078389651333944, 0.0 
+Nearest Neighbor, 3.6760313247908254, 0.0 
+Simulated Annealing, 3.3078389651333944, 0.028111696243286133 
+Ant Colony, 3.307838965133395, 0.2741415500640869 
+Genetic Algorithm, 3.3078389651333944, 0.42469120025634766 
+Brute Force, 2.2879460592755683, 0.015526056289672852 
+Dynamic Programming, 2.2879460592755683, 0.0007905960083007812 
+Nearest Neighbor, 2.580158597500665, 0.0 
+Simulated Annealing, 2.2879460592755683, 0.022462129592895508 
+Ant Colony, 2.2879460592755683, 0.27602291107177734 
+Genetic Algorithm, 2.2879460592755683, 0.43370985984802246 
+Brute Force, 2.6519133892823845, 0.014646053314208984 
+Dynamic Programming, 2.6519133892823845, 0.0 
+Nearest Neighbor, 3.0253291858182267, 0.0 
+Simulated Annealing, 2.6519133892823845, 0.02313518524169922 
+Ant Colony, 2.6519133892823845, 0.26250195503234863 
+Genetic Algorithm, 2.6519133892823845, 0.4467885494232178 
+Brute Force, 2.1076176143359344, 0.01717972755432129 
+Dynamic Programming, 2.107617614335935, 0.0 
+Nearest Neighbor, 2.1303482822236806, 0.0 
+Simulated Annealing, 2.1076176143359344, 0.015621185302734375 
+Ant Colony, 2.107617614335935, 0.27086973190307617 
+Genetic Algorithm, 2.1076176143359344, 0.4514639377593994 
+Brute Force, 2.586116060587377, 0.0185244083404541 
+Dynamic Programming, 2.5861160605873774, 0.0005488395690917969 
+Nearest Neighbor, 2.5861160605873774, 0.0 
+Simulated Annealing, 2.586116060587377, 0.026401281356811523 
+Ant Colony, 2.5861160605873774, 0.33046460151672363 
+Genetic Algorithm, 2.586116060587377, 0.43792223930358887 
+Brute Force, 2.48268583362617, 0.010041236877441406 
+Dynamic Programming, 2.48268583362617, 0.0005548000335693359 
+Nearest Neighbor, 2.48268583362617, 0.0 
+Simulated Annealing, 2.48268583362617, 0.013617753982543945 
+Ant Colony, 2.48268583362617, 0.28622889518737793 
+Genetic Algorithm, 2.48268583362617, 0.4377782344818115 
+Brute Force, 2.9110272654471476, 0.016788005828857422 
+Dynamic Programming, 2.9110272654471476, 0.0003294944763183594 
+Nearest Neighbor, 2.9252757853181595, 0.0 
+Simulated Annealing, 2.9110272654471476, 0.022223949432373047 
+Ant Colony, 2.9110272654471476, 0.27231431007385254 
+Genetic Algorithm, 2.9110272654471476, 0.42885708808898926 
+Brute Force, 1.9796642671271827, 0.010371685028076172 
+Dynamic Programming, 1.979664267127183, 0.006495952606201172 
+Nearest Neighbor, 2.0414419174966367, 0.0 
+Simulated Annealing, 1.9796642671271827, 0.019927978515625 
+Ant Colony, 1.979664267127183, 0.28378772735595703 
+Genetic Algorithm, 1.9796642671271827, 0.4538297653198242 
+Run 8
+Brute Force, 2.44630865006746, 0.14377355575561523 
+Dynamic Programming, 2.4463086500674605, 0.00153350830078125 
+Nearest Neighbor, 2.6633114733545247, 0.0 
+Simulated Annealing, 2.4463086500674605, 0.0278165340423584 
+Ant Colony, 2.534376458210481, 0.32006072998046875 
+Genetic Algorithm, 2.44630865006746, 0.45496249198913574 
+Brute Force, 2.561607057969823, 0.14270615577697754 
+Dynamic Programming, 2.5616070579698236, 0.0019218921661376953 
+Nearest Neighbor, 2.5616070579698236, 0.0 
+Simulated Annealing, 2.561607057969823, 0.02304363250732422 
+Ant Colony, 2.5616070579698236, 0.31944751739501953 
+Genetic Algorithm, 2.561607057969823, 0.46038055419921875 
+Brute Force, 3.028512661289878, 0.13482666015625 
+Dynamic Programming, 3.028512661289878, 0.008648872375488281 
+Nearest Neighbor, 3.495919991250422, 0.0011069774627685547 
+Simulated Annealing, 3.028512661289878, 0.018272876739501953 
+Ant Colony, 3.028512661289878, 0.3285408020019531 
+Genetic Algorithm, 3.028512661289878, 0.4629178047180176 
+Brute Force, 2.7950409698267946, 0.14029979705810547 
+Dynamic Programming, 2.795040969826795, 0.0 
+Nearest Neighbor, 3.0855569618872862, 0.0 
+Simulated Annealing, 2.7950409698267946, 0.03076171875 
+Ant Colony, 2.8012596214903978, 0.3146827220916748 
+Genetic Algorithm, 2.7950409698267946, 0.4700500965118408 
+Brute Force, 2.9118165812242474, 0.13215899467468262 
+Dynamic Programming, 2.9118165812242474, 0.0024259090423583984 
+Nearest Neighbor, 3.1653525543167085, 0.0 
+Simulated Annealing, 2.911816581224248, 0.027011632919311523 
+Ant Colony, 3.1024498267073195, 0.30170774459838867 
+Genetic Algorithm, 2.9118165812242474, 0.46401381492614746 
+Brute Force, 2.5147775755131603, 0.14890217781066895 
+Dynamic Programming, 2.5147775755131603, 0.0 
+Nearest Neighbor, 2.5147775755131607, 0.0 
+Simulated Annealing, 2.5147775755131603, 0.019873857498168945 
+Ant Colony, 2.5147775755131607, 0.3138573169708252 
+Genetic Algorithm, 2.5147775755131603, 0.4584791660308838 
+Brute Force, 2.6123869825449537, 0.14799284934997559 
+Dynamic Programming, 2.6123869825449537, 0.00164031982421875 
+Nearest Neighbor, 2.731612655834885, 0.0 
+Simulated Annealing, 2.6123869825449537, 0.021724224090576172 
+Ant Colony, 2.6123869825449537, 0.3187429904937744 
+Genetic Algorithm, 2.6123869825449537, 0.45590996742248535 
+Brute Force, 2.4094413973273805, 0.13689875602722168 
+Dynamic Programming, 2.4094413973273805, 0.008101940155029297 
+Nearest Neighbor, 2.4884629673069862, 0.0 
+Simulated Annealing, 2.4094413973273805, 0.024892091751098633 
+Ant Colony, 2.4094413973273805, 0.3302896022796631 
+Genetic Algorithm, 2.4094413973273805, 0.46400976181030273 
+Brute Force, 2.731731079380081, 0.1538560390472412 
+Dynamic Programming, 2.731731079380081, 0.005738973617553711 
+Nearest Neighbor, 2.8656207593959873, 0.0 
+Simulated Annealing, 2.7317310793800815, 0.02066183090209961 
+Ant Colony, 2.7455181028583833, 0.31417012214660645 
+Genetic Algorithm, 2.731731079380081, 0.4514141082763672 
+Brute Force, 2.6215338312765204, 0.13050174713134766 
+Dynamic Programming, 2.621533831276521, 0.001783132553100586 
+Nearest Neighbor, 3.0508279331675663, 0.0 
+Simulated Annealing, 2.621533831276521, 0.01889634132385254 
+Ant Colony, 2.621533831276521, 0.32319164276123047 
+Genetic Algorithm, 2.6215338312765204, 0.4584007263183594 
+Run 9
+Brute Force, 2.794943451176268, 1.4256417751312256 
+Dynamic Programming, 2.794943451176268, 0.0038604736328125 
+Nearest Neighbor, 2.956870155193924, 0.0 
+Simulated Annealing, 2.794943451176268, 0.0281069278717041 
+Ant Colony, 2.956870155193924, 0.3573145866394043 
+Genetic Algorithm, 2.794943451176268, 0.49494242668151855 
+Brute Force, 2.241834944199842, 1.4278244972229004 
+Dynamic Programming, 2.241834944199842, 0.005707502365112305 
+Nearest Neighbor, 2.5273483665485843, 0.0 
+Simulated Annealing, 2.241834944199842, 0.028244972229003906 
+Ant Colony, 2.2893245607753347, 0.3639695644378662 
+Genetic Algorithm, 2.241834944199842, 0.4735884666442871 
+Brute Force, 2.6210633462025754, 1.40299654006958 
+Dynamic Programming, 2.6210633462025754, 0.0056934356689453125 
+Nearest Neighbor, 3.115836121326363, 0.0 
+Simulated Annealing, 2.621063346202576, 0.02658557891845703 
+Ant Colony, 2.6210633462025754, 0.35475683212280273 
+Genetic Algorithm, 2.6210633462025754, 0.48964929580688477 
+Brute Force, 2.7540919001781696, 1.412536382675171 
+Dynamic Programming, 2.75409190017817, 0.0027086734771728516 
+Nearest Neighbor, 3.185223899189486, 0.0 
+Simulated Annealing, 2.75409190017817, 0.02075028419494629 
+Ant Colony, 2.75409190017817, 0.3635413646697998 
+Genetic Algorithm, 2.7540919001781696, 0.5433578491210938 
+Brute Force, 3.063354423140221, 1.3745074272155762 
+Dynamic Programming, 3.0633544231402214, 0.006644248962402344 
+Nearest Neighbor, 3.5026589337436724, 0.0 
+Simulated Annealing, 3.0633544231402214, 0.023696422576904297 
+Ant Colony, 3.5026589337436724, 0.3455464839935303 
+Genetic Algorithm, 3.063354423140221, 0.4904000759124756 
+Brute Force, 2.588746831300168, 1.3693082332611084 
+Dynamic Programming, 2.588746831300168, 0.00872802734375 
+Nearest Neighbor, 2.9867299542224397, 0.0 
+Simulated Annealing, 2.588746831300168, 0.02526569366455078 
+Ant Colony, 2.588746831300168, 0.35106515884399414 
+Genetic Algorithm, 2.588746831300168, 0.4885561466217041 
+Brute Force, 3.09822242578989, 1.43477201461792 
+Dynamic Programming, 3.09822242578989, 0.002162933349609375 
+Nearest Neighbor, 3.314774981733078, 0.0 
+Simulated Annealing, 3.0982224257898903, 0.028052806854248047 
+Ant Colony, 3.314774981733078, 0.3551900386810303 
+Genetic Algorithm, 3.09822242578989, 0.4996824264526367 
+Brute Force, 3.2748100161595897, 1.4497952461242676 
+Dynamic Programming, 3.27481001615959, 0.011600971221923828 
+Nearest Neighbor, 3.5758836605001685, 0.0 
+Simulated Annealing, 3.27481001615959, 0.02685999870300293 
+Ant Colony, 3.27481001615959, 0.36338210105895996 
+Genetic Algorithm, 3.2748100161595897, 0.4933662414550781 
+Brute Force, 2.0315180832380486, 1.3706638813018799 
+Dynamic Programming, 2.0315180832380486, 0.0025262832641601562 
+Nearest Neighbor, 2.320241776314435, 0.0 
+Simulated Annealing, 2.0315180832380486, 0.02530360221862793 
+Ant Colony, 2.271347783713302, 0.3506314754486084 
+Genetic Algorithm, 2.0315180832380486, 0.4773736000061035 
+Brute Force, 3.25601942264431, 1.4941823482513428 
+Dynamic Programming, 3.2560194226443104, 0.0 
+Nearest Neighbor, 3.2560194226443104, 0.0 
+Simulated Annealing, 3.2560194226443104, 0.017331838607788086 
+Ant Colony, 3.2560194226443104, 0.3481299877166748 
+Genetic Algorithm, 3.25601942264431, 0.5226237773895264 
+Run 10
+Brute Force, 3.086906214187948, 15.202510118484497 
+Dynamic Programming, 3.086906214187948, 0.008742570877075195 
+Nearest Neighbor, 3.589673261807614, 0.0 
+Simulated Annealing, 3.086906214187948, 0.021764516830444336 
+Ant Colony, 3.328585464469408, 0.41080379486083984 
+Genetic Algorithm, 3.086906214187948, 0.5072860717773438 
+Brute Force, 2.598715090530807, 16.039397954940796 
+Dynamic Programming, 2.5987150905308076, 0.0173642635345459 
+Nearest Neighbor, 3.0024865020060805, 0.0 
+Simulated Annealing, 2.5987150905308076, 0.03390049934387207 
+Ant Colony, 2.7667351717792705, 0.4358186721801758 
+Genetic Algorithm, 2.598715090530807, 0.5719699859619141 
+Brute Force, 3.0882181965025843, 16.4699125289917 
+Dynamic Programming, 3.0882181965025843, 0.008000850677490234 
+Nearest Neighbor, 3.0882181965025843, 0.0 
+Simulated Annealing, 3.0882181965025843, 0.028272628784179688 
+Ant Colony, 3.147068374107293, 0.4009718894958496 
+Genetic Algorithm, 3.0882181965025843, 0.5721545219421387 
+Brute Force, 2.6307858089674085, 16.26245880126953 
+Dynamic Programming, 2.630785808967409, 0.009999275207519531 
+Nearest Neighbor, 3.440436346730056, 0.0 
+Simulated Annealing, 2.630785808967409, 0.02369070053100586 
+Ant Colony, 2.630785808967409, 0.400068998336792 
+Genetic Algorithm, 2.6307858089674085, 0.5215902328491211 
+Brute Force, 2.5717857170749476, 15.314703226089478 
+Dynamic Programming, 2.571785717074948, 0.011665582656860352 
+Nearest Neighbor, 2.6827250134698444, 0.0 
+Simulated Annealing, 2.6160494074479446, 0.02335190773010254 
+Ant Colony, 2.633775705237001, 0.41584134101867676 
+Genetic Algorithm, 2.5717857170749476, 0.534127950668335 
+Brute Force, 3.099384392823515, 15.158823013305664 
+Dynamic Programming, 3.0993843928235156, 0.00998997688293457 
+Nearest Neighbor, 3.365517564317088, 0.0 
+Simulated Annealing, 3.099384392823516, 0.022695064544677734 
+Ant Colony, 3.173933040539687, 0.39104533195495605 
+Genetic Algorithm, 3.099384392823515, 0.5506577491760254 
+Brute Force, 2.7741237249693933, 15.026756286621094 
+Dynamic Programming, 2.7741237249693933, 0.00773310661315918 
+Nearest Neighbor, 3.6190324665020634, 0.0 
+Simulated Annealing, 2.7741237249693933, 0.025845050811767578 
+Ant Colony, 2.94701965476909, 0.38914918899536133 
+Genetic Algorithm, 2.7741237249693933, 0.5068366527557373 
+Brute Force, 3.2422120262144434, 15.264203310012817 
+Dynamic Programming, 3.242212026214444, 0.0010051727294921875 
+Nearest Neighbor, 3.6532537953135558, 0.0 
+Simulated Annealing, 3.2422120262144443, 0.02712082862854004 
+Ant Colony, 3.2478732561670918, 0.39044857025146484 
+Genetic Algorithm, 3.2422120262144434, 0.543330192565918 
+Brute Force, 3.535270349268953, 15.227044105529785 
+Dynamic Programming, 3.5352703492689534, 0.01156759262084961 
+Nearest Neighbor, 4.173345515809802, 0.0 
+Simulated Annealing, 3.5691451760687416, 0.024518489837646484 
+Ant Colony, 3.7343642272102935, 0.39336419105529785 
+Genetic Algorithm, 3.535270349268953, 0.5308921337127686 
+Brute Force, 2.7529635178506395, 15.136743068695068 
+Dynamic Programming, 2.7529635178506395, 0.001775503158569336 
+Nearest Neighbor, 3.084453380881315, 0.0 
+Simulated Annealing, 2.7529635178506395, 0.026894330978393555 
+Ant Colony, 2.7529635178506395, 0.39115047454833984 
+Genetic Algorithm, 2.7529635178506395, 0.5327389240264893 
+Run 11
+Dynamic Programming, 3.275367707090544, 0.02164149284362793 
+Nearest Neighbor, 3.311297743773141, 0.0 
+Simulated Annealing, 3.2753677070905445, 0.028995275497436523 
+Ant Colony, 3.275367707090544, 0.4544658660888672 
+Genetic Algorithm, 3.2753677070905436, 0.5599563121795654 
+Dynamic Programming, 2.7786717188466, 0.024630308151245117 
+Nearest Neighbor, 2.7786717188466, 0.0 
+Simulated Annealing, 2.7786717188465997, 0.02783513069152832 
+Ant Colony, 2.7786717188466, 0.445204496383667 
+Genetic Algorithm, 2.7786717188465992, 0.5496072769165039 
+Dynamic Programming, 2.680422106898313, 0.025783777236938477 
+Nearest Neighbor, 2.7670939071412226, 0.0 
+Simulated Annealing, 2.680422106898314, 0.027891159057617188 
+Ant Colony, 2.6804221068983134, 0.4290459156036377 
+Genetic Algorithm, 2.680422106898313, 0.5659003257751465 
+Dynamic Programming, 2.808821036327098, 0.02963566780090332 
+Nearest Neighbor, 2.8088210363270987, 0.0 
+Simulated Annealing, 2.8088210363270982, 0.02458667755126953 
+Ant Colony, 2.8088210363270987, 0.4282369613647461 
+Genetic Algorithm, 2.808821036327098, 0.5624935626983643 
+Dynamic Programming, 3.2430370660734056, 0.02368760108947754 
+Nearest Neighbor, 3.5763202915963612, 0.0 
+Simulated Annealing, 3.4015569681891082, 0.02360844612121582 
+Ant Colony, 3.512714769345351, 0.4360055923461914 
+Genetic Algorithm, 3.243037066073405, 0.536048412322998 
+Dynamic Programming, 2.8046337388473876, 0.029590129852294922 
+Nearest Neighbor, 3.0598152228606197, 0.0 
+Simulated Annealing, 2.8641304772923117, 0.027628421783447266 
+Ant Colony, 2.8046337388473876, 0.4481387138366699 
+Genetic Algorithm, 2.8046337388473876, 0.5442342758178711 
+Dynamic Programming, 2.7412556068727625, 0.020290374755859375 
+Nearest Neighbor, 3.276559791492187, 0.001107931137084961 
+Simulated Annealing, 2.741255606872763, 0.030272960662841797 
+Ant Colony, 2.9021321826093076, 0.44554638862609863 
+Genetic Algorithm, 2.741255606872762, 0.544349193572998 
+Dynamic Programming, 2.6671450310608695, 0.02136969566345215 
+Nearest Neighbor, 2.9664177356165715, 0.0 
+Simulated Annealing, 2.667145031060869, 0.023949146270751953 
+Ant Colony, 2.6671450310608695, 0.44188356399536133 
+Genetic Algorithm, 2.6671450310608686, 0.5371799468994141 
+Dynamic Programming, 3.014000111619276, 0.028371572494506836 
+Nearest Neighbor, 3.0553994876563224, 0.0 
+Simulated Annealing, 3.014000111619276, 0.021625757217407227 
+Ant Colony, 3.0256505753770675, 0.4450850486755371 
+Genetic Algorithm, 3.014000111619276, 0.6368277072906494 
+Dynamic Programming, 2.734054849029629, 0.03652167320251465 
+Nearest Neighbor, 3.074244859778207, 0.0 
+Simulated Annealing, 2.7340548490296293, 0.025441646575927734 
+Ant Colony, 2.87288493341128, 0.4536728858947754 
+Genetic Algorithm, 2.734054849029629, 0.5897049903869629 
+Run 13
+Dynamic Programming, 3.579336396682047, 0.13026189804077148 
+Nearest Neighbor, 3.9280761724505444, 0.0 
+Simulated Annealing, 3.658245847458664, 0.03870129585266113 
+Ant Colony, 3.65513239904441, 0.5390133857727051 
+Genetic Algorithm, 3.579336396682047, 0.5897448062896729 
+Dynamic Programming, 2.281216290409927, 0.12967538833618164 
+Nearest Neighbor, 3.4794688440842796, 0.0 
+Simulated Annealing, 2.281216290409927, 0.023042678833007812 
+Ant Colony, 2.368720758184487, 0.5471041202545166 
+Genetic Algorithm, 2.281216290409927, 0.6224257946014404 
+Dynamic Programming, 3.3835838357841213, 0.12778806686401367 
+Nearest Neighbor, 4.237957889453157, 0.0 
+Simulated Annealing, 3.3835838357841213, 0.02976250648498535 
+Ant Colony, 3.532598900176786, 0.5230307579040527 
+Genetic Algorithm, 3.3835838357841213, 0.613807201385498 
+Dynamic Programming, 3.535184308923612, 0.12284398078918457 
+Nearest Neighbor, 3.732809543045331, 0.0 
+Simulated Annealing, 3.631485019377088, 0.029353857040405273 
+Ant Colony, 3.6755054274683086, 0.536107063293457 
+Genetic Algorithm, 3.535184308923612, 0.6333844661712646 
+Dynamic Programming, 2.8241199692206402, 0.13626384735107422 
+Nearest Neighbor, 3.3239284549591908, 0.0 
+Simulated Annealing, 2.9918728115269237, 0.033349037170410156 
+Ant Colony, 2.899718284006189, 0.5385303497314453 
+Genetic Algorithm, 2.82411996922064, 0.6133930683135986 
+Dynamic Programming, 3.460218221691645, 0.13306331634521484 
+Nearest Neighbor, 3.7426239974742117, 0.0 
+Simulated Annealing, 3.7369497129395435, 0.03280997276306152 
+Ant Colony, 3.7426239974742117, 0.5346648693084717 
+Genetic Algorithm, 3.460218221691645, 0.6194958686828613 
+Dynamic Programming, 3.511480840237015, 0.12440729141235352 
+Nearest Neighbor, 4.363247180415677, 0.0 
+Simulated Annealing, 3.5114808402370152, 0.029959678649902344 
+Ant Colony, 3.8457354952119323, 0.5257008075714111 
+Genetic Algorithm, 3.511480840237015, 0.6227884292602539 
+Dynamic Programming, 2.931133149208936, 0.13389229774475098 
+Nearest Neighbor, 3.0367368793961322, 0.0 
+Simulated Annealing, 3.2182936221043814, 0.036554813385009766 
+Ant Colony, 3.0367368793961322, 0.5394549369812012 
+Genetic Algorithm, 2.931133149208935, 0.62314772605896 
+Dynamic Programming, 3.2277469265963292, 0.13758277893066406 
+Nearest Neighbor, 3.686699772980676, 0.0 
+Simulated Annealing, 3.317273634551343, 0.03393697738647461 
+Ant Colony, 3.364596539253565, 0.5469651222229004 
+Genetic Algorithm, 3.227746926596329, 0.6297507286071777 
+Dynamic Programming, 3.503455417150328, 0.12656211853027344 
+Nearest Neighbor, 3.7732206244231663, 0.0 
+Simulated Annealing, 3.503455417150328, 0.03562211990356445 
+Ant Colony, 3.503455417150328, 0.5346014499664307 
+Genetic Algorithm, 3.503455417150328, 0.6195683479309082 
+Run 15
+Dynamic Programming, 3.545390385655621, 0.7800540924072266 
+Nearest Neighbor, 4.674661846428554, 0.0 
+Simulated Annealing, 3.7165725390598876, 0.03395581245422363 
+Ant Colony, 3.5865435745523455, 0.6156754493713379 
+Genetic Algorithm, 3.545390385655621, 0.6761777400970459 
+Dynamic Programming, 2.711821943021123, 0.7505629062652588 
+Nearest Neighbor, 2.8225841451000706, 0.0 
+Simulated Annealing, 2.970637468798187, 0.03620648384094238 
+Ant Colony, 2.8122315351188107, 0.6289176940917969 
+Genetic Algorithm, 2.711821943021123, 0.6834940910339355 
+Dynamic Programming, 3.720252080091099, 0.742746114730835 
+Nearest Neighbor, 4.321916791985352, 0.0 
+Simulated Annealing, 4.198785864933886, 0.03632760047912598 
+Ant Colony, 4.0765082754145405, 0.6320698261260986 
+Genetic Algorithm, 3.7202520800910985, 0.6663765907287598 
+Dynamic Programming, 3.681074496192315, 0.7486612796783447 
+Nearest Neighbor, 4.440599088300765, 0.0 
+Simulated Annealing, 3.748927356116838, 0.031429290771484375 
+Ant Colony, 4.134554921517124, 0.6415834426879883 
+Genetic Algorithm, 3.796598418969644, 0.6645817756652832 
+Dynamic Programming, 3.476631635825381, 0.8030557632446289 
+Nearest Neighbor, 4.014336309937328, 0.0 
+Simulated Annealing, 3.476631635825381, 0.030797243118286133 
+Ant Colony, 3.5562598651566164, 0.6322104930877686 
+Genetic Algorithm, 3.4766316358253806, 0.6714718341827393 
+Dynamic Programming, 3.9685763322457954, 0.7665975093841553 
+Nearest Neighbor, 4.696759238831782, 0.0 
+Simulated Annealing, 4.087821736673142, 0.036229848861694336 
+Ant Colony, 4.221982663778173, 0.6264443397521973 
+Genetic Algorithm, 3.968576332245795, 0.6674680709838867 
+Dynamic Programming, 3.6898313445687063, 0.7717189788818359 
+Nearest Neighbor, 3.8611513133063093, 0.0 
+Simulated Annealing, 3.881840144504237, 0.05140566825866699 
+Ant Colony, 3.8611513133063093, 0.6509885787963867 
+Genetic Algorithm, 3.689831344568706, 0.7448368072509766 
+Dynamic Programming, 3.837942878320062, 0.809293270111084 
+Nearest Neighbor, 4.1119464691676155, 0.0009932518005371094 
+Simulated Annealing, 3.8379428783200633, 0.040103912353515625 
+Ant Colony, 3.9075113342602505, 0.7625992298126221 
+Genetic Algorithm, 3.837942878320062, 0.8634395599365234 
+Dynamic Programming, 3.607308501677811, 0.8872437477111816 
+Nearest Neighbor, 3.851122439739858, 0.0 
+Simulated Annealing, 4.453937324416989, 0.0409696102142334 
+Ant Colony, 3.6466822981221925, 0.7020659446716309 
+Genetic Algorithm, 3.6073085016778106, 0.7782800197601318 
+Dynamic Programming, 3.0333282228628757, 0.8422651290893555 
+Nearest Neighbor, 3.485959598216761, 0.0 
+Simulated Annealing, 3.12714180959254, 0.04607725143432617 
+Ant Colony, 3.1970749137007077, 0.6907572746276855 
+Genetic Algorithm, 3.0333282228628757, 0.7418081760406494 
+Run 17
+Dynamic Programming, 3.685500349960128, 4.5605080127716064 
+Nearest Neighbor, 4.501664997088858, 0.0 
+Simulated Annealing, 4.09321435106187, 0.044992685317993164 
+Ant Colony, 3.8900756658070703, 0.8145227432250977 
+Genetic Algorithm, 3.688333142459446, 0.8230247497558594 
+Dynamic Programming, 3.5448780325459834, 4.605081796646118 
+Nearest Neighbor, 4.231280830895189, 0.0 
+Simulated Annealing, 3.745482035871006, 0.03869056701660156 
+Ant Colony, 3.5448780325459834, 0.8075289726257324 
+Genetic Algorithm, 3.5448780325459834, 0.8285088539123535 
+Dynamic Programming, 4.361763658960969, 4.657490968704224 
+Nearest Neighbor, 5.069891934747546, 0.0 
+Simulated Annealing, 5.501745653749661, 0.03186178207397461 
+Ant Colony, 4.4759019308606245, 0.7733011245727539 
+Genetic Algorithm, 4.36944554804443, 0.8286540508270264 
+Dynamic Programming, 3.398541373641794, 4.283029556274414 
+Nearest Neighbor, 3.554496369317683, 0.0 
+Simulated Annealing, 3.3985413736417938, 0.03481435775756836 
+Ant Colony, 3.554496369317683, 0.7395572662353516 
+Genetic Algorithm, 3.3985413736417938, 0.790935754776001 
+Dynamic Programming, 3.565563301970589, 4.249468803405762 
+Nearest Neighbor, 3.9833262061118537, 0.0 
+Simulated Annealing, 4.026969053519048, 0.03749895095825195 
+Ant Colony, 3.565563301970589, 0.7333896160125732 
+Genetic Algorithm, 3.637483106891403, 0.7673971652984619 
+Dynamic Programming, 3.8423214840840467, 4.401934862136841 
+Nearest Neighbor, 4.424278462167741, 0.0 
+Simulated Annealing, 4.259730189426371, 0.04535031318664551 
+Ant Colony, 4.241229531297485, 0.9001777172088623 
+Genetic Algorithm, 3.8423214840840463, 0.8778197765350342 
+Dynamic Programming, 3.668576648870187, 4.429485321044922 
+Nearest Neighbor, 3.7799439780960764, 0.0 
+Simulated Annealing, 4.248586474829678, 0.042040109634399414 
+Ant Colony, 3.6741163237403294, 0.723987340927124 
+Genetic Algorithm, 3.6685766488701868, 0.760350227355957 
+Dynamic Programming, 3.7050203708730836, 4.282783031463623 
+Nearest Neighbor, 4.4420597381799505, 0.0 
+Simulated Annealing, 4.025893851962071, 0.03716444969177246 
+Ant Colony, 3.7050203708730836, 0.7591104507446289 
+Genetic Algorithm, 3.705020370873083, 0.766420841217041 
+Dynamic Programming, 4.128485380005453, 4.6646363735198975 
+Nearest Neighbor, 5.065437323089536, 0.0 
+Simulated Annealing, 4.176619617112003, 0.04093360900878906 
+Ant Colony, 4.506083959286181, 0.8572406768798828 
+Genetic Algorithm, 4.176619617112002, 0.766106367111206 
+Dynamic Programming, 3.7964514215742136, 4.244852066040039 
+Nearest Neighbor, 4.543220714271373, 0.0 
+Simulated Annealing, 3.839423622978453, 0.03867006301879883 
+Ant Colony, 4.298132697347355, 0.711555004119873 
+Genetic Algorithm, 3.796451421574213, 0.7638001441955566 
+Run 19
+Dynamic Programming, 3.675920634497076, 22.83782434463501 
+Nearest Neighbor, 4.069264446641677, 0.0 
+Simulated Annealing, 4.469025722301177, 0.03303384780883789 
+Ant Colony, 3.9189894344809524, 0.8383200168609619 
+Genetic Algorithm, 3.675920634497076, 0.7912518978118896 
+Dynamic Programming, 3.773966877493226, 22.346970081329346 
+Nearest Neighbor, 4.042052922929981, 0.0 
+Simulated Annealing, 4.659581401594227, 0.0383305549621582 
+Ant Colony, 3.7953028236494255, 0.8164303302764893 
+Genetic Algorithm, 4.132255469011412, 0.8324642181396484 
+Dynamic Programming, 3.7723947526094346, 25.63602042198181 
+Nearest Neighbor, 4.8442895397360335, 0.0 
+Simulated Annealing, 4.121078934353612, 0.03853726387023926 
+Ant Colony, 4.119225966990045, 0.845984697341919 
+Genetic Algorithm, 3.805317475401256, 0.8560106754302979 
+Dynamic Programming, 3.6775734172676184, 24.924592971801758 
+Nearest Neighbor, 4.741365306824601, 0.0 
+Simulated Annealing, 3.7099693257641198, 0.05279827117919922 
+Ant Colony, 4.0193207974291205, 0.7959368228912354 
+Genetic Algorithm, 3.9323892483476905, 0.8653371334075928 
+Dynamic Programming, 3.844630545907311, 22.5754816532135 
+Nearest Neighbor, 4.276403836667834, 0.0 
+Simulated Annealing, 4.751794721153716, 0.03944754600524902 
+Ant Colony, 4.370621204775617, 0.8087515830993652 
+Genetic Algorithm, 3.955876102919391, 0.8644506931304932 
+Dynamic Programming, 3.5938487860676, 25.47765302658081 
+Nearest Neighbor, 4.705051717939605, 0.0 
+Simulated Annealing, 4.205753265018428, 0.03414559364318848 
+Ant Colony, 4.103831671592732, 0.8843514919281006 
+Genetic Algorithm, 3.5938487860675994, 0.9039204120635986 
+Dynamic Programming, 3.624877302082674, 21.932823181152344 
+Nearest Neighbor, 4.17433155870279, 0.0 
+Simulated Annealing, 4.205985459932109, 0.03497791290283203 
+Ant Colony, 4.141446124538638, 0.8067831993103027 
+Genetic Algorithm, 3.6248773020826732, 0.8470227718353271 
+Dynamic Programming, 4.081204294711069, 21.43781542778015 
+Nearest Neighbor, 4.398645615045909, 0.0 
+Simulated Annealing, 4.356072659546226, 0.03846025466918945 
+Ant Colony, 4.17342432242715, 0.7881383895874023 
+Genetic Algorithm, 4.24370737041414, 0.8061411380767822 
+Dynamic Programming, 3.6752995713549232, 21.28894805908203 
+Nearest Neighbor, 3.8350729556916265, 0.0 
+Simulated Annealing, 4.02683886014119, 0.04539155960083008 
+Ant Colony, 3.857416722874083, 0.777681827545166 
+Genetic Algorithm, 3.762608059527704, 0.7944345474243164 
+Dynamic Programming, 3.5695764418803884, 21.285486698150635 
+Nearest Neighbor, 4.635814988841321, 0.0 
+Simulated Annealing, 4.237817721855301, 0.03767251968383789 
+Ant Colony, 3.6331860966623224, 0.7698652744293213 
+Genetic Algorithm, 3.569576441880388, 0.7914836406707764 
+Run 21
+Dynamic Programming, 4.375224613581418, 108.4792582988739
+Nearest Neighbor, 5.620815415886168, 0.0
+Simulated Annealing, 4.582632852034515, 0.04315805435180664
+Ant Colony, 4.74440578695201, 0.8725004196166992
+Genetic Algorithm, 4.585678946517344, 0.8680622577667236
+Dynamic Programming, 3.6169779018456993, 115.4497332572937
+Nearest Neighbor, 4.238987452985748, 0.0
+Simulated Annealing, 4.285605074402543, 0.04276156425476074
+Ant Colony, 3.8234084173507323, 0.8423573970794678
+Genetic Algorithm, 3.6581469155696387, 0.8785626888275146
+Dynamic Programming, 4.264798122132523, 115.57608413696289
+Nearest Neighbor, 4.913694772663484, 0.0
+Simulated Annealing, 4.841298270538217, 0.0485079288482666
+Ant Colony, 4.664193030437048, 0.9164955615997314
+Genetic Algorithm, 4.266899541397312, 0.9064910411834717
+Dynamic Programming, 3.7548249020580715, 115.4047577381134
+Nearest Neighbor, 4.648755291728309, 0.0
+Simulated Annealing, 3.8073517853829495, 0.03822898864746094
+Ant Colony, 4.138582915110504, 0.912405252456665
+Genetic Algorithm, 4.086338885761956, 0.8893623352050781
+Dynamic Programming, 4.073738379702217, 119.95123624801636
+Nearest Neighbor, 4.843919765563774, 0.0
+Simulated Annealing, 5.325748784339778, 0.03688359260559082
+Ant Colony, 4.135648864145269, 0.9403483867645264
+Genetic Algorithm, 4.073738379702216, 0.9168031215667725
+Dynamic Programming, 3.8603046461965453, 124.9167160987854
+Nearest Neighbor, 4.203563448764788, 0.0
+Simulated Annealing, 4.255056861594459, 0.044286251068115234
+Ant Colony, 4.109299942866006, 0.9851241111755371
+Genetic Algorithm, 3.860304646196545, 0.985849142074585
+Dynamic Programming, 3.939759870712222, 116.58748292922974
+Nearest Neighbor, 5.3316927325741945, 0.0
+Simulated Annealing, 4.742020234843509, 0.04156780242919922
+Ant Colony, 4.6926369539038575, 0.9483182430267334
+Genetic Algorithm, 3.9397598707122214, 0.9408705234527588
+Dynamic Programming, 3.873098173443821, 121.39787745475769
+Nearest Neighbor, 4.868599921415036, 0.0
+Simulated Annealing, 4.381101467411163, 0.04330587387084961
+Ant Colony, 4.258176771803929, 0.9145467281341553
+Genetic Algorithm, 3.9330531461826173, 0.9207291603088379
