@@ -116,17 +116,17 @@ https://docs.google.com/spreadsheets/d/1XSQOoqWclDc2vwvHzkxgoCZrsmxRmv2FqB7JONnY
 
 ## REFERENCES
 
-Quanta Magazine, “P vs. NP: The Biggest Puzzle in Computer Science,” YouTube. Dec. 01, 2023. Available: https://www.youtube.com/watch?v=pQsdygaYcE4
-“Explained: P vs. NP,” MIT News | Massachusetts Institute of Technology, Oct. 29, 2009. Available: https://news.mit.edu/2009/explainer-pnp
-Reducible, “The Traveling Salesman Problem: When Good Enough Beats Perfect,” YouTube. Jul. 26, 2022. Available: https://www.youtube.com/watch?v=GiDsjIBOVoA
-Learn by Example, “Solving the Travelling Salesman Problem using Ant Colony Optimization,” YouTube. May 18, 2021. Available: https://www.youtube.com/watch?v=oXb2nC-e_EA
-P. Kilby and P. Shaw, “Vehicle Routing,” in Foundations of artificial intelligence, 2006, pp. 801–836. doi: 10.1016/s1574-6526(06)80027-1. Available: https://www.sciencedirect.com/topics/computer-science/traveling-salesman-problem
-A. R. Karlin, N. Klein, and S. O. Gharan, “A (slightly) improved approximation algorithm for metric TSP,” Jun. 2021, doi: 10.1145/3406325.3451009. Available: https://doi.org/10.1145/3406325.3451009
-GeeksforGeeks, “Traveling Salesman Problem (TSP) Implementation,” GeeksforGeeks, Jan. 31, 2023. Available: https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/?ref=ml_lbp
-Z. Shaolin, “Best Algorithms for the Traveling Salesman Problem - NextBillion.ai,” NextBillion.ai, Apr. 10, 2024. Available: https://nextbillion.ai/post/algorithms-for-the-traveling-salesman-problem
-Physics for the Birds, “James Webb Space Telescope and the Traveling Salesman Problem,” YouTube. Jan. 18, 2023. Available: https://www.youtube.com/watch?v=Ov0EetgMws4
- MihailoGrbic, “GitHub - MihailoGrbic/Traveling-Salesman-Problem-Visualization: An interactive learning tool for the Traveling Salesman Problem and various exact and approximative algorithms used to solve it, including ant colony optimization.,” GitHub. Available: https://github.com/MihailoGrbic/Traveling-Salesman-Problem-Visualization
- H. H. A. Mukhairez and A. Y. A. Maghari, “Performance Comparison of Simulated Annealing, GA and ACO Applied to TSP,” International Journal of Intelligent Computing Research, vol. 6, no. 4, pp. 647–654, Dec. 2015, doi: 10.20533/ijicr.2042.4655.2015.0080. Available: https://doi.org/10.20533/ijicr.2042.4655.2015.0080
- James Cutajar, “Evolutionary Algorithm for the Travelling Salesperson Problem (Genetic Algorithm),” YouTube. Dec. 03, 2023. Available: https://www.youtube.com/watch?v=Wgn_aPH3OEk
- GeeksforGeeks, “Travelling Salesman Problem using Dynamic Programming,” GeeksforGeeks, Apr. 19, 2023. Available: https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/
- A. Davis, “Traveling Salesman Problem With the 2-opt Algorithm,” Medium, May 21, 2022. Available: https://slowandsteadybrain.medium.com/traveling-salesman-problem-ce78187cf1f3
+1. Quanta Magazine, “P vs. NP: The Biggest Puzzle in Computer Science,” YouTube. Dec. 01, 2023. Available: https://www.youtube.com/watch?v=pQsdygaYcE4
+2. “Explained: P vs. NP,” MIT News | Massachusetts Institute of Technology, Oct. 29, 2009. Available: https://news.mit.edu/2009/explainer-pnp
+3. Reducible, “The Traveling Salesman Problem: When Good Enough Beats Perfect,” YouTube. Jul. 26, 2022. Available: https://www.youtube.com/watch?v=GiDsjIBOVoA
+4. Learn by Example, “Solving the Travelling Salesman Problem using Ant Colony Optimization,” YouTube. May 18, 2021. Available: https://www.youtube.com/watch?v=oXb2nC-e_EA
+5. P. Kilby and P. Shaw, “Vehicle Routing,” in Foundations of artificial intelligence, 2006, pp. 801–836. doi: 10.1016/s1574-6526(06)80027-1. Available: https://www.sciencedirect.com/topics/computer-science/traveling-salesman-problem
+6. A. R. Karlin, N. Klein, and S. O. Gharan, “A (slightly) improved approximation algorithm for metric TSP,” Jun. 2021, doi: 10.1145/3406325.3451009. Available: https://doi.org/10.1145/3406325.3451009
+7. GeeksforGeeks, “Traveling Salesman Problem (TSP) Implementation,” GeeksforGeeks, Jan. 31, 2023. Available: https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/?ref=ml_lbp
+8. Z. Shaolin, “Best Algorithms for the Traveling Salesman Problem - NextBillion.ai,” NextBillion.ai, Apr. 10, 2024. Available: https://nextbillion.ai/post/algorithms-for-the-traveling-salesman-problem
+9. Physics for the Birds, “James Webb Space Telescope and the Traveling Salesman Problem,” YouTube. Jan. 18, 2023. Available: https://www.youtube.com/watch?v=Ov0EetgMws4
+10. MihailoGrbic, “GitHub - MihailoGrbic/Traveling-Salesman-Problem-Visualization: An interactive learning tool for the Traveling Salesman Problem and various exact and approximative algorithms used to solve it, including ant colony optimization.,” GitHub. Available: https://github.com/MihailoGrbic/Traveling-Salesman-Problem-Visualization
+11. H. H. A. Mukhairez and A. Y. A. Maghari, “Performance Comparison of Simulated Annealing, GA and ACO Applied to TSP,” International Journal of Intelligent Computing Research, vol. 6, no. 4, pp. 647–654, Dec. 2015, doi: 10.20533/ijicr.2042.4655.2015.0080. Available: https://doi.org/10.20533/ijicr.2042.4655.2015.0080
+12. James Cutajar, “Evolutionary Algorithm for the Travelling Salesperson Problem (Genetic Algorithm),” YouTube. Dec. 03, 2023. Available: https://www.youtube.com/watch?v=Wgn_aPH3OEk
+13. GeeksforGeeks, “Travelling Salesman Problem using Dynamic Programming,” GeeksforGeeks, Apr. 19, 2023. Available: https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/
+14. A. Davis, “Traveling Salesman Problem With the 2-opt Algorithm,” Medium, May 21, 2022. Available: https://slowandsteadybrain.medium.com/traveling-salesman-problem-ce78187cf1f3
