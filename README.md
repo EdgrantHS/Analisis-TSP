@@ -101,7 +101,17 @@ Fig. 3. Solusi yang dihasilkan oleh algoritma brute force, dynamic programming, 
 
 Berdasarkan hasil eksperimen, didapatkan bahwa solusi yang dihasilkan oleh algoritma brute force dan dynamic programming adalah solusi yang optimal jadi ∆Cost dengan solusi optimal adalah 0. Solusi yang dihasilkan oleh algoritma NNH dan ACO sering kali tidak optimal. ∆Cost yang dihasilkan oleh NNH lebih tinggi dibandingkan dengan ACO. Hal ini disebabkan oleh greedy algorithm yang sederhana NNH dibandingkan dengan ACO yang lebih kompleks.
 
-## V. CONCLUSION
+## V. DISCUSSION
+
+### A. Brute Force vs Dynamic Programming
+
+Berdasarkan hasil eksperimen, didapatkan bahwa algoritma brute force dan dynamic programming menghasilkan solusi yang optimal. Namun, kedua algoritma tersebut memiliki running time yang tinggi. Algoritma brute force memiliki running time yang lebih tinggi dibandingkan dengan dynamic programming karena kompleksitas waktu O(n!) yang meningkat secara factorial. Algoritma dynamic programming memiliki running time yang lebih rendah dibandingkan dengan brute force karena kompleksitas waktu O(n^2 * 2^n) yang meningkat secara eksponensial. Solusi yang dihasilkan oleh algoritma brute force dan dynamic programming adalah solusi yang optimal jadi ∆Cost dengan solusi optimal adalah 0. Oleh karena itu, algoritma dynamic programming selalu lebih disarankan dibandingkan dengan brute force kecuali jika mementingkan penggunaan memory yang lebih rendah.
+
+### B. Nearest Neighbor Heuristic vs Ant Colony Optimization
+
+Berdasarkan hasil eksperimen, didapatkan bahwa algoritma NNH memiliki running time yang paling rendah tetapi menghasilkan ∆Cost yang lebih tinggi dibandingkan dengan ACO. Hal ini disebabkan oleh greedy algorithm yang sederhana NNH dibandingkan dengan ACO yang lebih kompleks. Solusi yang dihasilkan oleh algoritma membutuhkan waktu yang jauh lebih cepat dibanding dengan algoritma lainnya. Oleh karena itu, algoritma NNH disarankan jika ingin solusi yang cepat dengan catatan. ALgoritma ACO disarankan jika ingin solusi yang optimal dengan running time yang dapat diterima.
+
+## VI. CONCLUSION
 
 Berdasarkan hasil eksperimen, didapatkan bahwa algoritma brute force dan dynamic programming menghasilkan solusi yang optimal. Namun, kedua algoritma tersebut memiliki running time yang tinggi. Algoritma NNH memiliki running time yang paling rendah tetapi sering kali menghasilkan solusi yang tidak optimal. Algoritma ACO memiliki running time yang lebih tinggi dibandingkan dengan solusi yang paling optimal dibandingkan NNH.
 Secara keseluruhan, algoritma brute force sangat tidak disarankan untuk menyelesaikan Traveling Salesman Problem (TSP) karena hasil yang optimal dapat dicapai dengan algoritma dynamic programming. Namun, algoritma dynamic programming juga tidak disarankan karena running time yang tinggi. Algoritma Nearest Neighbor Heuristic (NNH) disarankan jika ingin solusi yang cepat dengan catatan solusi yang tidak optimal. Algoritma Ant Colony Optimization (ACO) disarankan jika ingin solusi yang optimal dengan running time yang lebih tinggi dibandingkan dengan NNH.
